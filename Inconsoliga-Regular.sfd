@@ -1,7 +1,7 @@
 SplineFontDB: 3.0
-FontName: Inconsolig-Regular
-FullName: Inconsolig Regular
-FamilyName: Inconsolig
+FontName: Inconsoliga-Regular
+FullName: Inconsoliga Regular
+FamilyName: Inconsoliga
 Weight: Regular
 Copyright: Copyright 2006 The Inconsolata Project Authors
 Version: 2.001
@@ -15,14 +15,14 @@ sfntRevision: 0x00020041
 LayerCount: 2
 Layer: 0 0 "Back" 1
 Layer: 1 0 "Fore" 0
-XUID: [1021 364 -2095688903 5091170]
+XUID: [1021 364 -2095688903 10370748]
 StyleMap: 0x0040
 FSType: 0
 OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485946471
-ModificationTime: 1526932720
+ModificationTime: 1526939461
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -214,7 +214,7 @@ ChainSub2: coverage "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 co
  1
   SeqLookup: 0 "Single Substitution lookup 28"
 EndFPST
-LangName: 1033 "" "" "" "FontForge 2.0 : Inconsolig Regular : 19-5-2018" "" "Version 2.001" "" "" "Raph Levien, Cyreal" "Raph Levien, Cyreal" "" "http://www.levien.com | http://www.cyreal.org" "http://www.levien.com | http://www.cyreal.org" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
+LangName: 1033 "" "" "" "" "" "Version 2.001" "" "" "Raph Levien, Cyreal" "Raph Levien, Cyreal" "" "http://www.levien.com | http://www.cyreal.org" "http://www.levien.com | http://www.cyreal.org" "This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: http://scripts.sil.org/OFL" "http://scripts.sil.org/OFL"
 Encoding: UnicodeBmp
 UnicodeInterp: none
 NameList: AGL For New Fonts
@@ -738,17 +738,16 @@ StartChar: slash
 Encoding: 47 47 18
 Width: 500
 GlyphClass: 2
-Flags: WO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
-64 -13 m 5
- 377 665 l 5
- 437 634 l 5
- 123 -42 l 5
- 64 -13 l 5
+50 -6 m 1
+ 363 672 l 1
+ 456 625 l 1
+ 142 -51 l 1
+ 50 -6 l 1
 EndSplineSet
-Validated: 513
 Substitution2: "'/+AD0A' Single Substitution SS1-1" LIG
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" fraction
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" fraction
@@ -32801,26 +32800,26 @@ StartChar: slash_equal.liga
 Encoding: 65611 -1 799
 Width: 500
 GlyphClass: 3
-Flags: HWO
+Flags: HW
 HStem: 645 20G<347.704 415.71>
 LayerCount: 2
 Fore
 SplineSet
--31 438 m 5
+-50 438 m 5
  406 438 l 1
  406 377 l 1
- -59 377 l 5
- -31 438 l 5
--102 281 m 5
+ -79 377 l 1
+ -50 438 l 5
+-124 281 m 1
  406 281 l 1
  406 220 l 1
- -132 220 l 5
- -102 281 l 5
--386 -13 m 5
- -73 665 l 5
- -13 634 l 5
- -327 -42 l 5
- -386 -13 l 5
+ -152 220 l 1
+ -124 281 l 1
+-386 30 m 1
+ -93 665 l 1
+ -33 634 l 1
+ -327 1 l 1
+ -386 30 l 1
 EndSplineSet
 LCarets2: 1 0
 EndChar
