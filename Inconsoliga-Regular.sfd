@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485946471
-ModificationTime: 1527005508
+ModificationTime: 1527023601
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -59,6 +59,8 @@ OS2CodePages: 20000193.00000000
 OS2UnicodeRanges: 20000007.00000001.00000000.00000000
 Lookup: 6 0 0 "'calt' '/+AD0A' Contextual Chaining Substitution CCS1" { "'calt' '/+AD0A' Contextual Chaining Substitution CCS1 3"  "'calt' '/+AD0A' Contextual Chaining Substitution CCS1 4"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'/+AD0A' Single Substitution SS1" { "'/+AD0A' Single Substitution SS1-1"  } []
+Lookup: 6 0 0 "'calt' '>>+AD0A' Contextual Alternates lookup" { "'calt' '>>+AD0A' Contextual Alternates lookup 1"  "'calt' '>>+AD0A' Contextual Alternates lookup 2"  "'calt' '>>+AD0A' Contextual Alternates lookup 3"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'>>+AD0A' Single Substitution " { "'>>+AD0A' Single Substitution 1"  } []
 Lookup: 1 0 0 "'aalt' Access All Alternates in Latin lookup 0" { "'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates in Latin lookup 1" { "'aalt' Access All Alternates in Latin lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 2" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 0"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 1"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 2"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 3"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -99,6 +101,30 @@ MarkAttachClasses: 4
 "MarkClass-2" 443 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030F uni0311 uni0312 uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case tildecomb.i uni03060301 uni03060300 uni03060309 uni03060303 uni03020301 uni03020300 uni03020309 uni03020303 uni03020301.case uni03020300.case uni03020309.case uni03020303.case
 "MarkClass-3" 34 uni031B caroncomb.alt uni031B.case
 DEI: 91125
+ChainSub2: coverage "'calt' '>>+AD0A' Contextual Alternates lookup 3" 0 0 0 1
+ 1 2 0
+  Coverage: 5 equal
+  BCoverage: 3 LIG
+  BCoverage: 3 LIG
+ 1
+  SeqLookup: 0 "'>>+AD0A' Single Substitution "
+EndFPST
+ChainSub2: coverage "'calt' '>>+AD0A' Contextual Alternates lookup 2" 0 0 0 1
+ 1 1 1
+  Coverage: 7 greater
+  BCoverage: 3 LIG
+  FCoverage: 5 equal
+ 1
+  SeqLookup: 0 "'>>+AD0A' Single Substitution "
+EndFPST
+ChainSub2: coverage "'calt' '>>+AD0A' Contextual Alternates lookup 1" 0 0 0 1
+ 1 0 2
+  Coverage: 7 greater
+  FCoverage: 7 greater
+  FCoverage: 5 equal
+ 1
+  SeqLookup: 0 "'>>+AD0A' Single Substitution "
+EndFPST
 ChainSub2: coverage "'calt' '/+AD0A' Contextual Chaining Substitution CCS1 4" 0 0 0 1
  1 0 1
   Coverage: 5 slash
@@ -207,14 +233,14 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 38 14
+WinInfo: 28 28 11
 BeginPrivate: 3
 BlueValues 31 [-11 0 457 467 623 628 665 669]
 OtherBlues 11 [-172 -167]
 BlueShift 1 6
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-6" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-7" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-8" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-9" "'mkmk' Mark to Mark in Latin lookup 2 subtable" "Anchor-10" "'mkmk' Mark to Mark in Latin lookup 3 subtable" "Anchor-11" "'mkmk' Mark to Mark in Latin lookup 4 subtable" "Anchor-12" "'mkmk' Mark to Mark in Latin lookup 5 subtable"
-BeginChars: 65633 801
+BeginChars: 65633 802
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -724,7 +750,7 @@ StartChar: slash
 Encoding: 47 47 18
 Width: 500
 GlyphClass: 2
-Flags: HWO
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1270,6 +1296,7 @@ SplineSet
  45 281 l 5
 EndSplineSet
 Validated: 1
+Substitution2: "'>>+AD0A' Single Substitution 1" greater_greater_equal.liga
 Substitution2: "'/+AD0A' Single Substitution SS1-1" slash_equal.liga
 EndChar
 
@@ -1277,8 +1304,7 @@ StartChar: greater
 Encoding: 62 62 33
 Width: 500
 GlyphClass: 2
-Flags: MW
-HStem: 47 520
+Flags: HW
 LayerCount: 2
 Fore
 SplineSet
@@ -1291,6 +1317,7 @@ SplineSet
  40 47 l 1
  40 123 l 1
 EndSplineSet
+Substitution2: "'>>+AD0A' Single Substitution 1" LIG
 EndChar
 
 StartChar: question
@@ -1402,19 +1429,19 @@ AnchorPoint: "Anchor-4" 250 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-349 182 m 1
- 148 182 l 1
- 85 0 l 1
- 16 0 l 1
- 246 634 l 1
- 254 634 l 1
- 484 0 l 1
- 412 0 l 1
- 349 182 l 1
-331 236 m 1
- 249 474 l 1
- 167 236 l 1
- 331 236 l 1
+349 182 m 5
+ 148 182 l 5
+ 85 0 l 5
+ 16 0 l 5
+ 246 634 l 5
+ 254 634 l 5
+ 484 0 l 5
+ 412 0 l 5
+ 349 182 l 5
+331 236 m 5
+ 249 474 l 5
+ 167 236 l 5
+ 331 236 l 5
 EndSplineSet
 Validated: 1
 Substitution2: "Single Substitution lookup 28 subtable" ordfeminine
@@ -1647,6 +1674,8 @@ Encoding: 72 72 43
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<50 123 366 440> 297 60<123 366> 603 20G<50 132 367 449>
+VStem: 50 82<367.406 623> 50 73<0 297 357 615.812> 366 74<0 297 357 615.812> 367 82<370.922 623>
 AnchorPoint: "Anchor-8" 0 0 basechar 0
 AnchorPoint: "Anchor-7" 250 312 basechar 0
 AnchorPoint: "Anchor-6" 250 623 basechar 0
@@ -1655,16 +1684,16 @@ AnchorPoint: "Anchor-4" 250 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-50 623 m 1
+50 623 m 1xf0
  132 623 l 1
- 132 616 l 1
+ 132 616 l 1xf0
  128 612 125.5 607.666992188 124.5 603 c 0
  123.5 598.333007812 123 590.333007812 123 579 c 2
  123 357 l 1
  367 357 l 1
  367 623 l 1
  449 623 l 1
- 449 616 l 1
+ 449 616 l 1xea
  445 612 442.5 607.666992188 441.5 603 c 0
  440.5 598.333007812 440 590.333007812 440 579 c 2
  440 0 l 1
@@ -1672,8 +1701,8 @@ SplineSet
  366 297 l 1
  123 297 l 1
  123 0 l 1
- 50 0 l 1
- 50 623 l 1
+ 50 0 l 1xec
+ 50 623 l 1xf0
 EndSplineSet
 Validated: 1
 EndChar
@@ -1683,6 +1712,8 @@ Encoding: 73 73 44
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: 0 58<81 204 274 403> 564 59<88 204 274 397>
+VStem: 204 70<59 564>
 AnchorPoint: "Anchor-8" 0 0 basechar 0
 AnchorPoint: "Anchor-7" 0 0 basechar 0
 AnchorPoint: "Anchor-6" 239 623 basechar 0
@@ -1779,6 +1810,8 @@ Encoding: 76 76 47
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: 0 60<139 439> 603 20G<66 148>
+VStem: 66 82<368.156 623> 66 73<60 615.812>
 AnchorPoint: "Anchor-8" 180 457 basechar 0
 AnchorPoint: "Anchor-7" 107 312 basechar 0
 AnchorPoint: "Anchor-6" 200 623 basechar 0
@@ -1787,16 +1820,16 @@ AnchorPoint: "Anchor-4" 250 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-66 623 m 1
+66 623 m 1xe0
  148 623 l 1
- 148 616 l 1
+ 148 616 l 1xe0
  144 612 141.5 607.666992188 140.5 603 c 0
  139.5 598.333007812 139 590.333007812 139 579 c 2
  139 60 l 1
  439 60 l 1
  439 0 l 1
- 66 0 l 1
- 66 623 l 1
+ 66 0 l 1xd0
+ 66 623 l 1xe0
 EndSplineSet
 Validated: 1
 EndChar
@@ -2079,6 +2112,8 @@ Encoding: 84 84 55
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<208 279> 561 63<31 208 279 463>
+VStem: 208 71<0 561>
 AnchorPoint: "Anchor-8" 0 0 basechar 0
 AnchorPoint: "Anchor-7" 244 312 basechar 0
 AnchorPoint: "Anchor-6" 250 623 basechar 0
@@ -2620,6 +2655,8 @@ Encoding: 102 102 73
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: 0 21G<162 231> 400 57<63.002 162 231 381> 613 58.001<264.899 398.854>
+VStem: 162 69<0 400 457.001 578.092>
 LayerCount: 2
 Fore
 SplineSet
@@ -2889,6 +2926,8 @@ Encoding: 108 108 79
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: 0 58<79 214 287 421> 607 58<85 214>
+VStem: 214 73<58 607>
 AnchorPoint: "Anchor-8" 480 457 basechar 0
 AnchorPoint: "Anchor-7" 250 229 basechar 0
 AnchorPoint: "Anchor-6" 250 665 basechar 0
@@ -2917,6 +2956,9 @@ Encoding: 109 109 80
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: -0.000976562 21G<38 104 220 287 403 469> 412.999 55.001<135.825 209.908 318.929 393.084> 437 20G<38 103.997>
+VStem: 38 66<0 383.84 412 457> 220 67<-0.000976562 376.772> 403 66<-0.000976562 397.458>
+CounterMasks: 1 1c
 AnchorPoint: "Anchor-8" 0 0 basechar 0
 AnchorPoint: "Anchor-7" 0 0 basechar 0
 AnchorPoint: "Anchor-6" 250 457 basechar 0
@@ -2925,8 +2967,8 @@ AnchorPoint: "Anchor-4" 250 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-38 457 m 1
- 103.997070312 457 l 1
+38 457 m 1xbc
+ 103.997070312 457 l 1xbc
  103.997070312 412 l 1
  114.6640625 428.666992188 128.331054688 442.166992188 144.998046875 452.5 c 0
  161.665039062 462.833007812 178.998046875 468 196.998046875 468 c 0
@@ -2948,13 +2990,13 @@ SplineSet
  220 -0.0009765625 l 1
  220 317.999023438 l 2
  220 355.33203125 216.5 380.499023438 209.5 393.499023438 c 0
- 202.5 406.499023438 189.333007812 412.999023438 170 412.999023438 c 0
+ 202.5 406.499023438 189.333007812 412.999023438 170 412.999023438 c 0xdc
  160 412.999023438 149.833007812 408.499023438 139.5 399.499023438 c 0
  129.166992188 390.499023438 120.666992188 377.83203125 114 361.499023438 c 0
  107.333007812 345.166015625 104 326.333007812 104 305 c 2
  104 0 l 1
  38 0 l 1
- 38 457 l 1
+ 38 457 l 1xbc
 EndSplineSet
 Validated: 33
 EndChar
@@ -3201,6 +3243,9 @@ Encoding: 116 116 87
 Width: 500
 GlyphClass: 2
 Flags: W
+HStem: -6.99805 59.998<255.662 385.799> 398.001 59<70.001 171.001 247.001 399.001>
+VStem: 160.001 72<77.4807 341.637> 171.001 72<348.002 398.001 457.002 499.468>
+DStem2: 171.001 398.002 234.001 243.001 0.060313 0.99818<-203.532 0>
 AnchorPoint: "Anchor-8" 310 457 basechar 0
 AnchorPoint: "Anchor-7" 213 312 basechar 0
 AnchorPoint: "Anchor-6" 241 587 basechar 0
@@ -3209,10 +3254,10 @@ AnchorPoint: "Anchor-4" 250 0 basechar 0
 LayerCount: 2
 Fore
 SplineSet
-444 42 m 1
+444 42 m 1xe0
  400 9.3330078125 351.66796875 -6.998046875 299.000976562 -6.998046875 c 0
  248.333984375 -6.998046875 212.500976562 8.3349609375 191.500976562 39.001953125 c 0
- 170.500976562 69.6689453125 160.000976562 119.668945312 160.000976562 189.001953125 c 0
+ 170.500976562 69.6689453125 160.000976562 119.668945312 160.000976562 189.001953125 c 0xe0
  160.000976562 200.334960938 160.66796875 220.001953125 162.000976562 248.001953125 c 2
  171.000976562 398.001953125 l 1
  70.0009765625 398.001953125 l 1
@@ -3227,14 +3272,14 @@ SplineSet
  247.000976562 457.000976562 l 1
  399.000976562 457.000976562 l 1
  399.000976562 398.000976562 l 1
- 243.000976562 398.000976562 l 1
+ 243.000976562 398.000976562 l 1xd0
  234.000976562 243.000976562 l 2
  232.66796875 216.333984375 232.000976562 198.666992188 232.000976562 190 c 0
  232.000976562 136.666992188 238.16796875 100.5 250.500976562 81.5 c 0
  262.833984375 62.5 282.666992188 53 310 53 c 0
  330 53 348.333007812 56.6669921875 365 64 c 0
  381.666992188 71.3330078125 400.666992188 83 422 99 c 1
- 444 42 l 1
+ 444 42 l 1xe0
 EndSplineSet
 Validated: 1
 EndChar
@@ -32814,6 +32859,14 @@ SplineSet
  -327 1 l 1
  -386 30 l 1
 EndSplineSet
+EndChar
+
+StartChar: greater_greater_equal.liga
+Encoding: 65613 -1 801
+Width: 500
+Flags: HWO
+AnchorPoint: "Anchor-0" -458.5 567.25 basechar 0
+LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
