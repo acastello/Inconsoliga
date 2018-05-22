@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485946471
-ModificationTime: 1526939461
+ModificationTime: 1526986951
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -58,6 +58,7 @@ OS2Vendor: 'CYRE'
 OS2CodePages: 20000193.00000000
 OS2UnicodeRanges: 20000007.00000001.00000000.00000000
 Lookup: 6 0 0 "'calt' '/+AD0A' Contextual Chaining Substitution CCS1" { "'calt' '/+AD0A' Contextual Chaining Substitution CCS1 1"  "'calt' '/+AD0A' Contextual Chaining Substitution CCS1 2"  "'calt' '/+AD0A' Contextual Chaining Substitution CCS1 3"  "'calt' '/+AD0A' Contextual Chaining Substitution CCS1 4"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'/+AD0A' Single Substitution SS1" { "'/+AD0A' Single Substitution SS1-1"  } []
 Lookup: 1 0 0 "'aalt' Access All Alternates in Latin lookup 0" { "'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates in Latin lookup 1" { "'aalt' Access All Alternates in Latin lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 2" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 0"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 1"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 2"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 3"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -87,7 +88,6 @@ Lookup: 1 0 0 "'ss01' Style Set 1 in Latin lookup 25" { "'ss01' Style Set 1 in L
 Lookup: 1 0 0 "'ss02' Style Set 2 in Latin lookup 26" { "'ss02' Style Set 2 in Latin lookup 26 subtable"  } ['ss02' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'ss03' Style Set 3 in Latin lookup 27" { "'ss03' Style Set 3 in Latin lookup 27 subtable"  } ['ss03' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "Single Substitution lookup 28" { "Single Substitution lookup 28 subtable"  } []
-Lookup: 1 0 0 "'/+AD0A' Single Substitution SS1" { "'/+AD0A' Single Substitution SS1-1"  } []
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 0" { "'mark' Mark Positioning in Latin lookup 0 subtable"  } ['mark' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 260 0 0 "'mark' Mark Positioning in Latin lookup 1" { "'mark' Mark Positioning in Latin lookup 1 subtable"  } ['mark' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 262 256 0 "'mkmk' Mark to Mark in Latin lookup 2" { "'mkmk' Mark to Mark in Latin lookup 2 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -109,7 +109,7 @@ EndFPST
 ChainSub2: coverage "'calt' '/+AD0A' Contextual Chaining Substitution CCS1 3" 0 0 0 1
  1 1 0
   Coverage: 5 equal
-  BCoverage: 3 LIG
+  BCoverage: 16 slash_equal.liga
  1
   SeqLookup: 0 "'/+AD0A' Single Substitution SS1"
 EndFPST
@@ -221,14 +221,14 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 37 13
+WinInfo: 65324 28 12
 BeginPrivate: 3
 BlueValues 31 [-11 0 457 467 623 628 665 669]
 OtherBlues 11 [-172 -167]
 BlueShift 1 6
 EndPrivate
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-6" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-7" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-8" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-9" "'mkmk' Mark to Mark in Latin lookup 2 subtable" "Anchor-10" "'mkmk' Mark to Mark in Latin lookup 3 subtable" "Anchor-11" "'mkmk' Mark to Mark in Latin lookup 4 subtable" "Anchor-12" "'mkmk' Mark to Mark in Latin lookup 5 subtable"
-BeginChars: 65613 801
+BeginChars: 65633 801
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -748,7 +748,7 @@ SplineSet
  142 -51 l 1
  50 -6 l 1
 EndSplineSet
-Substitution2: "'/+AD0A' Single Substitution SS1-1" LIG
+Substitution2: "'/+AD0A' Single Substitution SS1-1" slash_equal.liga
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" fraction
 Substitution2: "'aalt' Access All Alternates in Latin lookup 0 subtable" fraction
 EndChar
@@ -1284,7 +1284,7 @@ SplineSet
  45 281 l 5
 EndSplineSet
 Validated: 1
-Substitution2: "'/+AD0A' Single Substitution SS1-1" slash_equal.liga
+Substitution2: "'/+AD0A' Single Substitution SS1-1" LIG
 EndChar
 
 StartChar: greater
@@ -32796,11 +32796,18 @@ Validated: 1
 Ligature2: "'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0302.case tildecomb.case
 EndChar
 
-StartChar: slash_equal.liga
+StartChar: LIG
 Encoding: 65611 -1 799
 Width: 500
 GlyphClass: 3
 Flags: HW
+LayerCount: 2
+EndChar
+
+StartChar: slash_equal.liga
+Encoding: 65612 -1 800
+Width: 500
+Flags: W
 HStem: 645 20G<347.704 415.71>
 LayerCount: 2
 Fore
@@ -32821,14 +32828,6 @@ SplineSet
  -327 1 l 1
  -386 30 l 1
 EndSplineSet
-LCarets2: 1 0
-EndChar
-
-StartChar: LIG
-Encoding: 65612 -1 800
-Width: 500
-Flags: W
-LayerCount: 2
 EndChar
 EndChars
 EndSplineFont
