@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485946471
-ModificationTime: 1527082914
+ModificationTime: 1527084012
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -918,7 +918,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 37 37 13
+WinInfo: 65352 28 11
 BeginPrivate: 3
 BlueValues 31 [-11 0 457 467 623 628 665 669]
 OtherBlues 11 [-172 -167]
@@ -1440,11 +1440,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-50 -6 m 1,0,-1
- 363 672 l 1,1,-1
- 456 625 l 1,2,-1
- 142 -51 l 1,3,-1
- 50 -6 l 1,0,-1
+64 -13 m 1,0,-1
+ 377 665 l 1,1,-1
+ 437 634 l 1,2,-1
+ 123 -42 l 1,3,-1
+ 64 -13 l 1,0,-1
 EndSplineSet
 Substitution2: "'/+AD0A' Single Substitution SS1-1" LIG
 Substitution2: "'frac' Diagonal Fractions in Latin lookup 17 subtable" fraction
@@ -3124,7 +3124,7 @@ StartChar: a
 Encoding: 97 97 68
 Width: 500
 GlyphClass: 2
-Flags: WO
+Flags: W
 AnchorPoint: "Anchor-8" 0 0 basechar 0
 AnchorPoint: "Anchor-7" 0 0 basechar 0
 AnchorPoint: "Anchor-6" 250 457 basechar 0
@@ -3973,7 +3973,7 @@ StartChar: u
 Encoding: 117 117 88
 Width: 500
 GlyphClass: 2
-Flags: W
+Flags: WO
 AnchorPoint: "Anchor-8" 432 457 basechar 0
 AnchorPoint: "Anchor-7" 0 0 basechar 0
 AnchorPoint: "Anchor-6" 250 457 basechar 0
@@ -33554,76 +33554,35 @@ TeX: 567 0
 TopAccentHorizontal: -252
 IsExtendedShape: 1
 HStem: 211 61<45 456> 368 61<45 456>
-TtInstrs:
-SVTCA[y-axis]
-PUSHB_1
- 21
-MDAP[rnd]
-PUSHB_1
- 18
-MDRP[min,rnd,black]
-PUSHB_1
- 17
-MDAP[rnd]
-PUSHB_1
- 14
-MDRP[min,rnd,black]
-SVTCA[x-axis]
-PUSHB_1
- 22
-MDAP[rnd]
-PUSHB_2
- 23
- 1
-CALL
-SVTCA[y-axis]
-PUSHB_2
- 17
- 18
-SRP1
-SRP2
-PUSHB_6
- 4
- 5
- 8
- 11
- 12
- 1
-DEPTH
-SLOOP
-IP
-IUP[y]
-IUP[x]
-EndTTInstrs
 LayerCount: 2
 Fore
 SplineSet
--460 123 m 1,0,-1
- -111 319 l 1,1,-1
- -458 496 l 1,2,-1
- -458 567 l 1,3,-1
- -34 344 l 1,4,-1
- -34 296 l 1,5,-1
- -460 47 l 1,6,-1
- -460 123 l 1,0,-1
+-549 123 m 1,0,-1
+ -200 319 l 1,1,-1
+ -547 496 l 1,2,-1
+ -547 567 l 1,3,-1
+ -94.25 329 l 1,4,-1
+ -94.25 313 l 1,5,-1
+ -549 47 l 1,6,-1
+ -549 123 l 1,0,-1
 -960 123 m 1,7,-1
  -611 319 l 1,8,-1
  -958 496 l 1,9,-1
  -958 567 l 1,10,-1
- -534 344 l 1,11,-1
- -534 296 l 1,12,-1
+ -505.25 329 l 1,11,-1
+ -505.25 313 l 1,12,-1
  -960 47 l 1,13,-1
  -960 123 l 1,7,-1
-45 429 m 1,14,-1
- 456 429 l 1,15,-1
- 456 368 l 1,16,-1
- 45 368 l 1,17,-1
- 45 429 l 1,14,-1
-45 272 m 1,18,-1
- 456 272 l 1,19,-1
- 456 211 l 1,20,-1
- 45 211 l 1,21,-1
- 45 272 l 1,18,-1
+-134 435 m 5,14,-1
+ 456 435 l 1,15,-1
+ 456 374 l 1,16,-1
+ -26 374 l 1,17,-1
+ -134 435 l 5,14,-1
+-26 266 m 1,18,-1
+ 456 266 l 1,19,-1
+ 456 205 l 1,20,-1
+ -134 205 l 5,21,-1
+ -26 266 l 1,18,-1
 EndSplineSet
 EndChar
 EndChars
