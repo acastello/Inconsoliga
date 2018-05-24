@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485946471
-ModificationTime: 1527101026
+ModificationTime: 1527112346
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -59,8 +59,11 @@ OS2CodePages: 20000193.00000000
 OS2UnicodeRanges: 20000007.00000001.00000000.00000000
 Lookup: 6 0 0 "'calt' '/+AD0A' Contextual Chaining Substitution CCS1" { "'calt' '/+AD0A' Contextual Chaining Substitution CCS1 3"  "'calt' '/+AD0A' Contextual Chaining Substitution CCS1 4"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'/+AD0A' Single Substitution SS1" { "'/+AD0A' Single Substitution SS1-1"  } []
-Lookup: 6 0 0 "'calt' '>>+AD0A' Contextual Alternates lookup" { "'calt' '>>+AD0A' Contextual Alternates lookup 1"  "'calt' '>>+AD0A' Contextual Alternates lookup 2"  "'calt' '>>+AD0A' Contextual Alternates lookup 3"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 6 0 0 "'calt' '>>+AD0A' Contextual Chaining Substitution" { "'calt' '>>+AD0A' Contextual Alternates lookup 1"  "'calt' '>>+AD0A' Contextual Alternates lookup 2"  "'calt' '>>+AD0A' Contextual Alternates lookup 3"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'>>+AD0A' Single Substitution" { "'>>+AD0A' Single Substitution"  } []
+Lookup: 6 0 0 "'calt' '+AD0A<<' Contextual Chaining Substitution" { "'calt' '+AD0A<<' Contextual Chaining Substitution 1"  "'calt' '+AD0A<<' Contextual Chaining Substitution 2"  "'calt' '+AD0A<<' Contextual Chaining Substitution 3"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'+AD0A<<' Single Substitution" { "'+AD0A<<' Single Substitution"  } []
+Lookup: 1 0 0 "'  <' to '+AD0A<<' Single Substitution" { "'  <' to '+AD0A<<' Single Substitution"  } []
 Lookup: 1 0 0 "'aalt' Access All Alternates in Latin lookup 0" { "'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates in Latin lookup 1" { "'aalt' Access All Alternates in Latin lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 2" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 0"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 1"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 2"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 3"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -101,6 +104,30 @@ MarkAttachClasses: 4
 "MarkClass-2" 443 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030F uni0311 uni0312 uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case tildecomb.i uni03060301 uni03060300 uni03060309 uni03060303 uni03020301 uni03020300 uni03020309 uni03020303 uni03020301.case uni03020300.case uni03020309.case uni03020303.case
 "MarkClass-3" 34 uni031B caroncomb.alt uni031B.case
 DEI: 91125
+ChainSub2: coverage "'calt' '+AD0A<<' Contextual Chaining Substitution 3" 0 0 0 1
+ 1 2 0
+  Coverage: 4 less
+  BCoverage: 3 LIG
+  BCoverage: 3 LIG
+ 1
+  SeqLookup: 0 "'  <' to '+AD0A<<' Single Substitution"
+EndFPST
+ChainSub2: coverage "'calt' '+AD0A<<' Contextual Chaining Substitution 2" 0 0 0 1
+ 1 1 1
+  Coverage: 4 less
+  BCoverage: 3 LIG
+  FCoverage: 4 less
+ 1
+  SeqLookup: 0 "'+AD0A<<' Single Substitution"
+EndFPST
+ChainSub2: coverage "'calt' '+AD0A<<' Contextual Chaining Substitution 1" 0 0 0 1
+ 1 0 2
+  Coverage: 5 equal
+  FCoverage: 4 less
+  FCoverage: 4 less
+ 1
+  SeqLookup: 0 "'+AD0A<<' Single Substitution"
+EndFPST
 ChainSub2: coverage "'calt' '>>+AD0A' Contextual Alternates lookup 3" 0 0 0 1
  1 2 0
   Coverage: 5 equal
@@ -918,7 +945,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65296 28 11
+WinInfo: 65194 37 13
 BeginPrivate: 3
 BlueValues 31 [-11 0 457 467 623 628 665 669]
 OtherBlues 11 [-172 -167]
@@ -926,7 +953,7 @@ BlueShift 1 6
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 479198 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-6" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-7" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-8" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-9" "'mkmk' Mark to Mark in Latin lookup 2 subtable" "Anchor-10" "'mkmk' Mark to Mark in Latin lookup 3 subtable" "Anchor-11" "'mkmk' Mark to Mark in Latin lookup 4 subtable" "Anchor-12" "'mkmk' Mark to Mark in Latin lookup 5 subtable"
-BeginChars: 65625 805
+BeginChars: 65655 805
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -1960,6 +1987,8 @@ SplineSet
  461 47 l 1,6,-1
  35 296 l 1,0,-1
 EndSplineSet
+Substitution2: "'  <' to '+AD0A<<' Single Substitution" equal_less_less.liga
+Substitution2: "'+AD0A<<' Single Substitution" LIG
 EndChar
 
 StartChar: equal
@@ -1970,20 +1999,20 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-45 438 m 5,0,-1
- 456 438 l 1,1,-1
- 456 377 l 1,2,-1
- 45 377 l 1,3,-1
- 45 438 l 5,0,-1
-45 281 m 5,4,-1
- 456 281 l 1,5,-1
- 456 220 l 1,6,-1
- 45 220 l 1,7,-1
- 45 281 l 5,4,-1
+45 429 m 1,0,-1
+ 456 429 l 1,1,-1
+ 456 368 l 1,2,-1
+ 45 368 l 1,3,-1
+ 45 429 l 1,0,-1
+45 272 m 1,4,-1
+ 456 272 l 1,5,-1
+ 456 211 l 1,6,-1
+ 45 211 l 1,7,-1
+ 45 272 l 1,4,-1
 EndSplineSet
-Validated: 1
+Substitution2: "'+AD0A<<' Single Substitution" LIG
 Substitution2: "'>>+AD0A' Single Substitution" greater_greater_equal.liga
-Substitution2: "'/+AD0A' Single Substitution SS1-1" slash_equal.liga
+Substitution2: "'/+AD0A' Single Substitution SS1-1" equal_equal_equal.liga
 EndChar
 
 StartChar: greater
@@ -1995,12 +2024,12 @@ LayerCount: 2
 Fore
 SplineSet
 40 123 m 5,0,-1
- 389 319 l 1,1,-1
- 42 496 l 1,2,-1
- 42 567 l 1,3,-1
- 466 344 l 1,4,-1
- 466 296 l 1,5,-1
- 40 47 l 1,6,-1
+ 389 319 l 5,1,-1
+ 42 496 l 5,2,-1
+ 42 567 l 5,3,-1
+ 466 344 l 5,4,-1
+ 466 296 l 5,5,-1
+ 40 47 l 5,6,-1
  40 123 l 5,0,-1
 EndSplineSet
 Substitution2: "'>>+AD0A' Single Substitution" LIG
@@ -33520,7 +33549,7 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: slash_equal.liga
+StartChar: equal_equal_equal.liga
 Encoding: 65612 -1 800
 Width: 500
 Flags: W
@@ -33588,21 +33617,42 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: greater_greater_equal_1.liga
+StartChar: equal_less_less.liga
 Encoding: 65614 -1 802
 Width: 500
 Flags: W
+HStem: 211 61<45 456> 368 61<45 456>
 LayerCount: 2
 Fore
 SplineSet
-40 123 m 5,0,-1
- 389 319 l 5,1,-1
- 42 496 l 5,2,-1
- 42 567 l 5,3,-1
- 494.75 329 l 5,4,-1
- 494.75 313 l 5,5,-1
- 40 47 l 5,6,-1
- 40 123 l 5,0,-1
+50 123 m 5,0,-1
+ -299 319 l 5,1,-1
+ 48 496 l 5,2,-1
+ 48 567 l 5,3,-1
+ -404.75 329 l 5,4,-1
+ -404.75 313 l 5,5,-1
+ 50 47 l 5,6,-1
+ 50 123 l 5,0,-1
+461 123 m 5,7,-1
+ 112 319 l 5,8,-1
+ 459 496 l 5,9,-1
+ 459 567 l 5,10,-1
+ 6.25 329 l 5,11,-1
+ 6.25 313 l 5,12,-1
+ 461 47 l 5,13,-1
+ 461 123 l 5,7,-1
+-379 431 m 5,14,-1
+ -955 431 l 5,15,-1
+ -955 370 l 5,16,-1
+ -473 370 l 5,17,-1
+ -379 423 l 5,18,-1
+ -379 431 l 5,14,-1
+-473 270 m 5,19,-1
+ -955 270 l 5,20,-1
+ -955 209 l 5,21,-1
+ -379 209 l 5,22,-1
+ -379 217 l 5,23,-1
+ -473 270 l 5,19,-1
 EndSplineSet
 EndChar
 
