@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485946471
-ModificationTime: 1527202728
+ModificationTime: 1527289913
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -71,6 +71,9 @@ Lookup: 1 0 0 "'+AD0APQA9' Single Substitution (' +AD0A ')" { "' +AD0A ' to '+AD
 Lookup: 6 0 0 "'+AD0APQAA' CAlt" { "'calt' '+AD0APQAA' Contextual Chaining Substitution 1"  "'calt' '+AD0APQAA' Contextual Chaining Substitution 2"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 1 0 0 "'+AD0APQAA' Single Substitution" { "'+AD0APQAA' Single Substitution"  } []
 Lookup: 1 0 0 "'+AD0APQAA' Single Substitution (' +AD0A')" { "' +AD0A' to '+AD0APQAA' Single Substitution"  } []
+Lookup: 6 0 0 "'>>' CAlt" { "'>>' CAlt 1"  "'>>' CAlt 2"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
+Lookup: 1 0 0 "'>>' Single Substitution" { "'>>' Single Substitution"  } []
+Lookup: 1 0 0 "'>>' Single Substitution ' >'" { "'>>' Single Substitution ' >'"  } []
 Lookup: 1 0 0 "'aalt' Access All Alternates in Latin lookup 0" { "'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 3 0 0 "'aalt' Access All Alternates in Latin lookup 1" { "'aalt' Access All Alternates in Latin lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 Lookup: 6 0 0 "'ccmp' Glyph Composition/Decomposition in Latin lookup 2" { "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 0"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 1"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 2"  "'ccmp' Glyph Composition/Decomposition in Latin lookup 2 contextual 3"  } ['ccmp' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
@@ -111,6 +114,20 @@ MarkAttachClasses: 4
 "MarkClass-2" 443 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030F uni0311 uni0312 uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case tildecomb.i uni03060301 uni03060300 uni03060309 uni03060303 uni03020301 uni03020300 uni03020309 uni03020303 uni03020301.case uni03020300.case uni03020309.case uni03020303.case
 "MarkClass-3" 34 uni031B caroncomb.alt uni031B.case
 DEI: 91125
+ChainSub2: coverage "'>>' CAlt 2" 0 0 0 1
+ 1 0 1
+  Coverage: 7 greater
+  FCoverage: 7 greater
+ 1
+  SeqLookup: 0 "'>>' Single Substitution"
+EndFPST
+ChainSub2: coverage "'>>' CAlt 1" 0 0 0 1
+ 1 1 0
+  Coverage: 7 greater
+  BCoverage: 3 LIG
+ 1
+  SeqLookup: 0 "'>>' Single Substitution ' >'"
+EndFPST
 ChainSub2: coverage "'calt' '+AD0APQA9' Contextual Chaining Substitution 1" 0 0 0 1
  1 2 0
   Coverage: 5 equal
@@ -976,7 +993,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65194 37 13
+WinInfo: 0 28 11
 BeginPrivate: 3
 BlueValues 31 [-11 0 457 467 623 628 665 669]
 OtherBlues 11 [-172 -167]
@@ -988,7 +1005,7 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 524288 262144 174762 479198 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Anchor-0" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-1" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-2" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-3" "'mark' Mark Positioning in Latin lookup 0 subtable" "Anchor-4" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-5" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-6" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-7" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-8" "'mark' Mark Positioning in Latin lookup 1 subtable" "Anchor-9" "'mkmk' Mark to Mark in Latin lookup 2 subtable" "Anchor-10" "'mkmk' Mark to Mark in Latin lookup 3 subtable" "Anchor-11" "'mkmk' Mark to Mark in Latin lookup 4 subtable" "Anchor-12" "'mkmk' Mark to Mark in Latin lookup 5 subtable"
-BeginChars: 65685 839
+BeginChars: 65685 840
 
 StartChar: .notdef
 Encoding: 65536 -1 0
@@ -2070,6 +2087,8 @@ SplineSet
  40 47 l 1,6,-1
  40 123 l 1,0,-1
 EndSplineSet
+Substitution2: "'>>' Single Substitution ' >'" greater_greater.liga
+Substitution2: "'>>' Single Substitution" LIG
 Substitution2: "'>>+AD0A' 2nd char substitution" LIG
 Substitution2: "'>>+AD0A' 1st char subtitution" LIG
 Substitution2: "'>>+AD0A' Single Substitution" LIG
@@ -33613,45 +33632,45 @@ EndChar
 StartChar: greater_greater_equal.liga
 Encoding: 65613 -1 801
 Width: 500
-Flags: W
+Flags: WO
 TeX: 567 0
 TopAccentHorizontal: -338
 LayerCount: 2
 Fore
 SplineSet
--960 133 m 1,0,-1
- -561 320 l 1,1,-1
- -958 506 l 1,2,-1
- -958 577 l 1,3,-1
- -455 328 l 1,4,-1
- -455 312 l 1,5,-1
- -960 57 l 1,6,-1
- -960 133 l 1,0,-1
--205 429 m 5,7,-1
- 456 429 l 1,8,-1
- 456 368 l 1,9,-1
- -85 368 l 5,10,-1
- -205 429 l 5,7,-1
--85 272 m 5,11,-1
- 456 272 l 1,12,-1
- 456 211 l 1,13,-1
- -205 211 l 5,14,-1
- -85 272 l 5,11,-1
--510 133 m 1,15,-1
- -111 320 l 1,16,-1
- -508 506 l 1,17,-1
- -508 577 l 1,18,-1
- -5 328 l 1,19,-1
- -5 312 l 1,20,-1
- -510 57 l 1,21,-1
- -510 133 l 1,15,-1
+-175 429 m 5,0,-1
+ 456 429 l 1,1,-1
+ 456 368 l 1,2,-1
+ -95 368 l 1,3,-1
+ -175 429 l 5,0,-1
+-95 272 m 1,4,-1
+ 456 272 l 1,5,-1
+ 456 211 l 1,6,-1
+ -175 211 l 5,7,-1
+ -95 272 l 1,4,-1
+-559.75 123 m 1,8,-1
+ -280.75 319 l 1,9,-1
+ -557.75 496 l 1,10,-1
+ -557.75 567 l 1,11,-1
+ -175 329 l 1,12,-1
+ -175 313 l 1,13,-1
+ -559.75 47 l 1,14,-1
+ -559.75 123 l 1,8,-1
+-959.75 123 m 1,15,-1
+ -680.75 319 l 1,16,-1
+ -957.75 496 l 1,17,-1
+ -957.75 567 l 1,18,-1
+ -575 329 l 1,19,-1
+ -575 313 l 1,20,-1
+ -959.75 47 l 1,21,-1
+ -959.75 123 l 1,15,-1
 EndSplineSet
 EndChar
 
 StartChar: equal_less_less.liga
 Encoding: 65614 -1 802
 Width: 500
-Flags: W
+Flags: WO
 HStem: 211 61<45 456> 368 61<45 456>
 LayerCount: 2
 Fore
@@ -33664,26 +33683,26 @@ SplineSet
  -404.75 313 l 5,5,-1
  50 47 l 5,6,-1
  50 123 l 5,0,-1
-461 123 m 5,7,-1
- 112 319 l 5,8,-1
- 459 496 l 5,9,-1
- 459 567 l 5,10,-1
- 6.25 329 l 5,11,-1
- 6.25 313 l 5,12,-1
- 461 47 l 5,13,-1
- 461 123 l 5,7,-1
--379 431 m 5,14,-1
- -955 431 l 5,15,-1
- -955 370 l 5,16,-1
- -473 370 l 5,17,-1
- -379 423 l 5,18,-1
- -379 431 l 5,14,-1
--473 270 m 5,19,-1
- -955 270 l 5,20,-1
- -955 209 l 5,21,-1
- -379 209 l 5,22,-1
- -379 217 l 5,23,-1
- -473 270 l 5,19,-1
+461 123 m 1,7,-1
+ 112 319 l 1,8,-1
+ 459 496 l 1,9,-1
+ 459 567 l 1,10,-1
+ 6.25 329 l 1,11,-1
+ 6.25 313 l 1,12,-1
+ 461 47 l 1,13,-1
+ 461 123 l 1,7,-1
+-379 431 m 1,14,-1
+ -955 431 l 1,15,-1
+ -955 370 l 1,16,-1
+ -473 370 l 1,17,-1
+ -379 423 l 1,18,-1
+ -379 431 l 1,14,-1
+-473 270 m 1,19,-1
+ -955 270 l 1,20,-1
+ -955 209 l 1,21,-1
+ -379 209 l 1,22,-1
+ -379 217 l 1,23,-1
+ -473 270 l 1,19,-1
 EndSplineSet
 EndChar
 
@@ -35161,6 +35180,32 @@ SplineSet
  456 211 l 1,6,-1
  -81 211 l 1,7,-1
  41 272 l 1,4,-1
+EndSplineSet
+EndChar
+
+StartChar: greater_greater.liga
+Encoding: 65657 -1 839
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-459.75 123 m 1,0,-1
+ -80.75 319 l 5,1,-1
+ -457.75 496 l 1,2,-1
+ -457.75 567 l 1,3,-1
+ 25 329 l 5,4,-1
+ 25 313 l 5,5,-1
+ -459.75 47 l 1,6,-1
+ -459.75 123 l 1,0,-1
+-18.75 123 m 1,7,-1
+ 360.25 319 l 1,8,-1
+ -16.75 496 l 1,9,-1
+ -16.75 567 l 1,10,-1
+ 466 329 l 1,11,-1
+ 466 313 l 1,12,-1
+ -18.75 47 l 1,13,-1
+ -18.75 123 l 1,7,-1
 EndSplineSet
 EndChar
 EndChars
