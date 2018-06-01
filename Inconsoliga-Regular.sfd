@@ -22,13 +22,13 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1485946471
-ModificationTime: 1527707631
+ModificationTime: 1527870586
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
 LineGap: 0
 VLineGap: 0
-Panose: 0 0 5 0 8 0 0 0 0 0
+Panose: 0 0 5 9 0 0 0 0 0 0
 OS2TypoAscent: 859
 OS2TypoAOffset: 0
 OS2TypoDescent: -190
@@ -54,9 +54,9 @@ OS2StrikeYSize: 50
 OS2StrikeYPos: 274
 OS2CapHeight: 623
 OS2XHeight: 457
-OS2Vendor: 'CYRE'
-OS2CodePages: 20000193.00000000
-OS2UnicodeRanges: 00000007.00000001.00000000.00000000
+OS2Vendor: '    '
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 00000001.00000000.00000000.00000000
 Lookup: 1 0 0 "'&&&' Single Substitution ('  &')" { "'&&&' Single Substitution ('  &')"  } []
 Lookup: 1 0 0 "'&&&' Single Substitution (' & ')" { "'&&&' Single Substitution (' & ')"  } []
 Lookup: 1 0 0 "'&&&' Single Substitution" { "'&&&' Single Substitution"  } []
@@ -208,7 +208,8 @@ Lookup: 262 768 0 "'mkmk' Mark to Mark in Latin lookup 4" { "'mkmk' Mark to Mark
 Lookup: 262 512 0 "'mkmk' Mark to Mark in Latin lookup 5" { "'mkmk' Mark to Mark in Latin lookup 5 subtable"  } ['mkmk' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
 MarkAttachClasses: 4
 "MarkClass-1" 52 dotbelowcomb uni0324 uni0326 uni0327 uni032E uni0331
-"MarkClass-2" 443 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030F uni0311 uni0312 uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case tildecomb.i uni03060301 uni03060300 uni03060309 uni03060303 uni03020301 uni03020300 uni03020309 uni03020303 uni03020301.case uni03020300.case uni03020309.case uni03020303.case
+"MarkClass-2" 444 gravecomb acutecomb uni0302 tildecomb uni0304 uni0306 uni0307 uni0308 hookabovecomb uni030A uni030B uni030C uni030F uni0311 uni0312 uni0308.case uni0307.case gravecomb.case acutecomb.case uni030B.case uni0302.case uni030C.case uni0306.case uni030A.case tildecomb.case tildecomb.i uni03060301 uni03060300 uni03060309 uni03060303 uni03020301 uni03020300 uni03020309 uni03020303 uni03020301.case uni03020300.case uni03020309.case uni03020303.case
+
 "MarkClass-3" 34 uni031B caroncomb.alt uni031B.case
 DEI: 91125
 ChainSub2: coverage "'+-+-' CAlt 1" 0 0 0 1
@@ -1816,11 +1817,8 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65194 37 13
-BeginPrivate: 3
-BlueValues 31 [-11 0 457 467 623 628 665 669]
-OtherBlues 11 [-172 -167]
-BlueShift 1 6
+WinInfo: 65083 37 13
+BeginPrivate: 0
 EndPrivate
 Grid
 -196 1300 m 0
@@ -35048,7 +35046,7 @@ EndChar
 StartChar: less_dollar_greater.liga
 Encoding: 65626 -1 813
 Width: 500
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -36913,7 +36911,7 @@ SplineSet
 EndSplineSet
 EndChar
 EndChars
-BitmapFont: 10 859 8 2 1
+BitmapFont: 10 860 8 2 1
 BDFChar: 0 65536 5 0 0 0 0
 z
 BDFChar: 1 0 0 0 0 0 0
