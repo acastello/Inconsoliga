@@ -7,7 +7,7 @@ import sys
 font=None
 
 def usage():
-    print('USAGE: CreateLigLookup.py ligname')
+    print('USAGE: CreateLigLookup.py [filename] [ligname] ...')
 
 def ligname_tuple(ligname):
     if ligname.endswith('.liga'):
@@ -93,7 +93,6 @@ def createLigaLookup(ligname, parts=None, chars=None):
 
     lookups = createSingleSubs(ligname, parts, chars)
     createContAlts(ligname, parts, chars, lookups)
-    font.save()
 
 def main(argv):
     global font
@@ -110,6 +109,7 @@ def main(argv):
         ligas = argv[1:]
     for lig in ligas:
         createLigaLookup(lig)
+    font.save()
 
 if __name__ == '__main__':
     main(argv)
