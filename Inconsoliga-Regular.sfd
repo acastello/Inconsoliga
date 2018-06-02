@@ -67,7 +67,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 18 13
+WinInfo: 1113700 37 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 479199 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -30647,7 +30647,7 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: asciicirum_equal.liga
+StartChar: asciicircum_equal.liga
 Encoding: 1114246 -1 855
 Width: 500
 Flags: W
