@@ -23,7 +23,12 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1527956454
-ModificationTime: 1527956925
+ModificationTime: 1527966810
+PfmFamily: 17
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 90
+VLineGap: 0
 OS2TypoAscent: 0
 OS2TypoAOffset: 1
 OS2TypoDescent: 0
@@ -37,112 +42,44 @@ HheadAscent: 0
 HheadAOffset: 1
 HheadDescent: 0
 HheadDOffset: 1
-Lookup: 1 0 0 "Inconsoliga-Regular-'&&&' Single Substitution ('  &')" { "Inconsoliga-Regular-'&&&' Single Substitution ('  &')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'&&&' Single Substitution (' & ')" { "Inconsoliga-Regular-'&&&' Single Substitution (' & ')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'&&&' Single Substitution" { "Inconsoliga-Regular-'&&&' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+-+-+-' Single Substitution" { "Inconsoliga-Regular-'+-+-+-' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+-+-+-' Single Substitution (' +- ')" { "Inconsoliga-Regular-'+-+-+-' Single Substitution (' +- ')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+-+-+-' Single Substitution ('  +-')" { "Inconsoliga-Regular-'+-+-+-' Single Substitution ('  +-')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<+AFwA>' Single Substitution" { "Inconsoliga-Regular-'<+AFwA>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'</>' Single Substitution" { "Inconsoliga-Regular-'</>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>>-' Single Substitution (' > ')" { "Inconsoliga-Regular-'>>-' Single Substitution (' > ')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>>-' Single Substitution" { "Inconsoliga-Regular-'>>-' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+AD0A!+AD0A' Single Substitution ('  +AD0A')" { "Inconsoliga-Regular-'+AD0A!+AD0A' Single Substitution ('  +AD0A')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+AD0A!+AD0A' Single Substitution" { "Inconsoliga-Regular-'+AD0A!+AD0A' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'***' Single Substitution ('  *')" { "Inconsoliga-Regular-'***' Single Substitution ('  *')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'***' Single Substitution (' * ')" { "Inconsoliga-Regular-'***' Single Substitution (' * ')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'***' Single Substitution " { "Inconsoliga-Regular-'***' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<$>' Single Substitution" { "Inconsoliga-Regular-'<$>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<?>' Single Substitution" { "Inconsoliga-Regular-'<?>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<->' Single Substitution" { "Inconsoliga-Regular-'<->' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<+->' Single Substitution" { "Inconsoliga-Regular-'<+->' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<*>' Single Substitution" { "Inconsoliga-Regular-'<*>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<.>' Single Substitution" { "Inconsoliga-Regular-'<.>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+AD0APQA9' Single Substitution" { "Inconsoliga-Regular-'+AD0APQA9' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+AD0APQA9' Single Substitution (' +AD0A ')" { "Inconsoliga-Regular-' +AD0A ' to '+AD0APQA9' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+AD0APQA9' Single Substitution ('  +AD0A')" { "Inconsoliga-Regular-'+AD0APQA9' Single Substitution ('  +AD0A')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>>>' Single Substitution" { "Inconsoliga-Regular-'>>>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>>>' Single Substitution (' > ')" { "Inconsoliga-Regular-'>>>' Single Substitution (' > ')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>>>' Single Substitution ('  >')" { "Inconsoliga-Regular-'>>>' Single Substitution ('  >')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<<<' Single Substitution" { "Inconsoliga-Regular-'<<<' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<<<' Single Substitution (' < ')" { "Inconsoliga-Regular-'<<<' Single Substitution (' < ')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<<<' Single Substitution ('  <')" { "Inconsoliga-Regular-'<<<' Single Substitution ('  <')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>>+AD0A' Single Substitution" { "Inconsoliga-Regular-'>>+AD0A' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>>+AD0A' Single Substitution (' > ')" { "Inconsoliga-Regular-'>>+AD0A' Single Substitution (' > ')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>>+AD0A' Single Substitution ('  +AD0A')" { "Inconsoliga-Regular-'>>+AD0A' Single Substitution ('  +AD0A')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+AD0A<<' Single Substitution" { "Inconsoliga-Regular-'+AD0A<<' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+AD0A<<' Single Substitution ('  <')" { "Inconsoliga-Regular-'  <' to '+AD0A<<' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>+AD0A>' Single Substitution" { "Inconsoliga-Regular-'>+AD0A>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>+AD0A>' Single Substitution ('  >')" { "Inconsoliga-Regular-'>+AD0A>' Single Substitution ('  >')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<+AD0A<' Single Substitution" { "Inconsoliga-Regular-'<+AD0A<' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<+AD0A<' Single Substitution ('  <')" { "Inconsoliga-Regular-'<+AD0A<' Single Substitution ('  <')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<|>' Single Substitution" { "Inconsoliga-Regular-'<|>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+AD0APQAA' Single Substitution" { "Inconsoliga-Regular-'+AD0APQAA' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+AD0APQAA' Single Substitution (' +AD0A')" { "Inconsoliga-Regular-' +AD0A' to '+AD0APQAA' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+AD0A>' Single Substitution" { "Inconsoliga-Regular-'+AD0A>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>>' Single Substitution" { "Inconsoliga-Regular-'>>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>>' Single Substitution (' >')" { "Inconsoliga-Regular-'>>' Single Substitution (' >')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<<' Single Substitution " { "Inconsoliga-Regular-'<<' Single Substitution "  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<<' Single Substitution (' <')" { "Inconsoliga-Regular-'<<' Single Substitution (' <')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<>' Single Substitution" { "Inconsoliga-Regular-'<>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'->' Single Substitution" { "Inconsoliga-Regular-'->' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<-' Single Substitution" { "Inconsoliga-Regular-'<-' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'!+AD0A' Single Substitution" { "Inconsoliga-Regular-'!+AD0A' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<|' Single Substitution" { "Inconsoliga-Regular-'<|' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'|>' Single Substitution" { "Inconsoliga-Regular-'|>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'<*' Single Substitution" { "Inconsoliga-Regular-'<*' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'*>' Single Substitution" { "Inconsoliga-Regular-'*>' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'-<' Single Substitution" { "Inconsoliga-Regular-'-<' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'>-' Single Substitution" { "Inconsoliga-Regular-'>-' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'&&' Single Substitution" { "Inconsoliga-Regular-'&&' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'&&' Single Substitution (' &')" { "Inconsoliga-Regular-'&&' Single Substitution (' &')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'||' Single Substitution" { "Inconsoliga-Regular-'||' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'||' Single Substitution (' |')" { "Inconsoliga-Regular-'||' Single Substitution (' |')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'::' Single Substitution (' :')" { "Inconsoliga-Regular-'::' Single Substitution (' :')"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'::' Single Substitution" { "Inconsoliga-Regular-'::' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+-+-' Single Substitution" { "Inconsoliga-Regular-'+-+-' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'+-+-' Single Substitution (' +-')" { "Inconsoliga-Regular-'+-+-' Single Substitution (' +-') "  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'/+AD0A' Single Substitution" { "Inconsoliga-Regular-'/+AD0A' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'?+AD0A' Single Substitution" { "Inconsoliga-Regular-'?+AD0A' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'^+AD0A' Single Substitution" { "Inconsoliga-Regular-'^+AD0A' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'*+AD0A' Single Substitution" { "Inconsoliga-Regular-'*+AD0A' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-':+AD0A' Single Substitution" { "Inconsoliga-Regular-':+AD0A' Single Substitution"  } []
-Lookup: 1 0 0 "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0" { "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 3 0 0 "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1" { "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable"  } ['aalt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 0 "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4" { "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable"  } ['ccmp' ('latn' <'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 6" { "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 6 subtable"  } ['locl' ('latn' <'ROM ' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 7" { "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 7 subtable"  } ['locl' ('latn' <'MOL ' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 8" { "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 8 subtable"  } ['locl' ('latn' <'KAZ ' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 9" { "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 9 subtable"  } ['locl' ('latn' <'TAT ' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 10" { "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 10 subtable"  } ['locl' ('latn' <'TRK ' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 11" { "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 11 subtable"  } ['locl' ('latn' <'CRT ' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 12" { "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 12 subtable"  } ['locl' ('latn' <'AZE ' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13" { "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable"  } ['subs' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14" { "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable"  } ['sups' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15" { "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable"  } ['numr' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16" { "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable"  } ['dnom' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 17" { "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 17 subtable"  } ['frac' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18" { "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable"  } ['frac' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 4 0 0 "Inconsoliga-Regular-'ordn' Ordinals in Latin lookup 21" { "Inconsoliga-Regular-'ordn' Ordinals in Latin lookup 21 subtable"  } ['ordn' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22" { "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable"  } ['case' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'zero' Slashed Zero in Latin lookup 23" { "Inconsoliga-Regular-'zero' Slashed Zero in Latin lookup 23 subtable"  } ['zero' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'salt' Stylistic Alternatives in Latin lookup 24" { "Inconsoliga-Regular-'salt' Stylistic Alternatives in Latin lookup 24 subtable"  } ['salt' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'ss01' Style Set 1 in Latin lookup 25" { "Inconsoliga-Regular-'ss01' Style Set 1 in Latin lookup 25 subtable"  } ['ss01' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'ss02' Style Set 2 in Latin lookup 26" { "Inconsoliga-Regular-'ss02' Style Set 2 in Latin lookup 26 subtable"  } ['ss02' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-'ss03' Style Set 3 in Latin lookup 27" { "Inconsoliga-Regular-'ss03' Style Set 3 in Latin lookup 27 subtable"  } ['ss03' ('DFLT' <'dflt' > 'latn' <'AZE ' 'CAT ' 'CRT ' 'KAZ ' 'MOL ' 'ROM ' 'TAT ' 'TRK ' 'dflt' > ) ]
-Lookup: 1 0 0 "Inconsoliga-Regular-Single Substitution lookup 28" { "Inconsoliga-Regular-Single Substitution lookup 28 subtable"  } []
+OS2Vendor: 'PfEd'
+Lookup: 1 0 0 "greater_greater_equal.liga Single Substitution (2nd)" { "greater_greater_equal.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "greater_greater_equal.liga Single Substitution" { "greater_greater_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "'>>+AD0A' Contextual Alternates" { "'>>+AD0A' Contextual Alternates 1"  "'>>+AD0A' Contextual Alternates 2"  "'>>+AD0A' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: glyph "'>>+AD0A' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "greater_greater_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>>+AD0A' Contextual Alternates 2" 0 0 0 1
+ String: 7 greater
+ BString: 3 LIG
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "greater_greater_equal.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'>>+AD0A' Contextual Alternates 3" 0 0 0 1
+ String: 7 greater
+ BString: 0 
+ FString: 13 greater equal
+ 1
+  SeqLookup: 0 "greater_greater_equal.liga Single Substitution"
+EndFPST
+LangName: 1033
 Encoding: Custom
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65502 18 13
+WinInfo: 65231 37 13
 BeginPrivate: 0
 EndPrivate
-BeginChars: 1114112 856
+BeginChars: 65676 858
 
 StartChar: exclam
 Encoding: 33 33 0
@@ -168,8 +105,6 @@ SplineSet
  263 -11.0004882812 263 -11.0004882812 239 -11 c 128,-1,8
  215 -11 215 -11 197.5 6 c 128,-1,9
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'+AD0A!+AD0A' Single Substitution" LIG2
-Substitution2: "Inconsoliga-Regular-'!+AD0A' Single Substitution" LIG
 EndChar
 
 StartChar: quotedbl
@@ -198,8 +133,6 @@ SplineSet
  284.999511718 579.997558594 284.999511718 579.997558594 285 664.998046875 c 1,19,-1
  365 664.998046875 l 1,10,11
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'ss03' Style Set 3 in Latin lookup 27 subtable" quotedbl.ss03
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" quotedbl.ss03
 EndChar
 
 StartChar: numbersign
@@ -296,7 +229,6 @@ SplineSet
  292.999023438 73.9990234375 l 5,53,47
  339.998535156 82.9990234375 339.998535156 82.9990234375 367.498046875 111.999023438 c 132,-1,48
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'<$>' Single Substitution" LIG2
 EndChar
 
 StartChar: percent
@@ -405,11 +337,6 @@ SplineSet
  162.997070312 54.001953125 162.997070312 54.001953125 198.997070312 54.001953125 c 0,53,54
  262.997558594 54.001953125 262.997558594 54.001953125 323.998046875 123.001953125 c 1,46,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'&&&' Single Substitution ('  &')" and_and_and.liga
-Substitution2: "Inconsoliga-Regular-'&&&' Single Substitution (' & ')" LIG2
-Substitution2: "Inconsoliga-Regular-'&&&' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'&&' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'&&' Single Substitution (' &')" ampersand_ampersand.liga
 EndChar
 
 StartChar: quotesingle
@@ -429,8 +356,6 @@ SplineSet
  209.999511718 579.999511719 209.999511718 579.999511719 210 665 c 1,9,-1
  290 665 l 1,0,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'ss03' Style Set 3 in Latin lookup 27 subtable" quotesingle.ss03
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" quotesingle.ss03
 EndChar
 
 StartChar: parenleft
@@ -503,16 +428,6 @@ SplineSet
  138 123 l 1,14,-1
  84 167 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'*+AD0A' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'*>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<*' Single Substitution" less_asterisk.liga
-Substitution2: "Inconsoliga-Regular-'<*>' Single Substitution" LIG2
-Substitution2: "Inconsoliga-Regular-'***' Single Substitution ('  *')" asterisk_asterisk_asterisk.liga
-Substitution2: "Inconsoliga-Regular-'***' Single Substitution (' * ')" LIG2
-Substitution2: "Inconsoliga-Regular-'***' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'ss01' Style Set 1 in Latin lookup 25 subtable" asterisk.ss01
-Substitution2: "Inconsoliga-Regular-'salt' Stylistic Alternatives in Latin lookup 24 subtable" asterisk.ss01
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" asterisk.ss01
 EndChar
 
 StartChar: plus
@@ -536,12 +451,6 @@ SplineSet
  222 104 l 1,11,-1
  222 291 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'+-+-' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'+-+-' Single Substitution (' +-') " plus_plus.liga
-Substitution2: "Inconsoliga-Regular-'+-+-+-' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'+-+-+-' Single Substitution (' +- ')" LIG2
-Substitution2: "Inconsoliga-Regular-'+-+-+-' Single Substitution ('  +-')" plus_plus_plus.liga
-Substitution2: "Inconsoliga-Regular-'<+->' Single Substitution" LIG2
 EndChar
 
 StartChar: comma
@@ -580,12 +489,6 @@ SplineSet
  71 281 l 1,3,-1
  71 348 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'>>-' Single Substitution" greater_greater_hyphen.liga
-Substitution2: "Inconsoliga-Regular-'>-' Single Substitution" greater_hyphen.liga
-Substitution2: "Inconsoliga-Regular-'-<' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<->' Single Substitution" LIG2
-Substitution2: "Inconsoliga-Regular-'<-' Single Substitution" less_hyphen.liga
-Substitution2: "Inconsoliga-Regular-'->' Single Substitution" LIG
 EndChar
 
 StartChar: period
@@ -605,7 +508,6 @@ SplineSet
  260.999511719 -10.9995117188 260.999511719 -10.9995117188 238 -11 c 0,9,0
  214 -11 214 -11 197 6 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'<.>' Single Substitution" LIG2
 EndChar
 
 StartChar: slash
@@ -621,10 +523,6 @@ SplineSet
  123 -42 l 1,3,-1
  64 -13 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'</>' Single Substitution" LIG2
-Substitution2: "Inconsoliga-Regular-'/+AD0A' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 17 subtable" fraction
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" fraction
 EndChar
 
 StartChar: zero
@@ -657,14 +555,6 @@ SplineSet
  183.999511718 49.9975585938 183.999511718 49.9975585938 250 49.998046875 c 0,26,19
  307 49.998046875 307 49.998046875 339 116.998046875 c 128,-1,20
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'ss02' Style Set 2 in Latin lookup 26 subtable" zero.ss02
-Substitution2: "Inconsoliga-Regular-'zero' Slashed Zero in Latin lookup 23 subtable" zero.zero
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable" zero.numr
-Substitution2: "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable" zero.dnom
-Substitution2: "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable" zero.numr
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni2070
-Substitution2: "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable" uni2080
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2080 uni2070 zero.numr zero.dnom zero.zero zero.ss02
 EndChar
 
 StartChar: one
@@ -683,12 +573,6 @@ SplineSet
  230 0 l 1,6,-1
  230 537 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable" one.numr
-Substitution2: "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable" one.dnom
-Substitution2: "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable" one.numr
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni00B9
-Substitution2: "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable" uni2081
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2081 uni00B9 one.numr one.dnom
 EndChar
 
 StartChar: two
@@ -727,12 +611,6 @@ SplineSet
  73 0 l 1,35,-1
  73 56 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable" two.numr
-Substitution2: "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable" two.dnom
-Substitution2: "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable" two.numr
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni00B2
-Substitution2: "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable" uni2082
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2082 uni00B2 two.numr two.dnom
 EndChar
 
 StartChar: three
@@ -775,12 +653,6 @@ SplineSet
  299 -10.9995117188 299 -10.9995117188 240 -11 c 0,44,0
  190.000488282 -11 190.000488282 -11 145.5 7 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable" three.numr
-Substitution2: "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable" three.dnom
-Substitution2: "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable" three.numr
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni00B3
-Substitution2: "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable" uni2083
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2083 uni00B3 three.numr three.dnom
 EndChar
 
 StartChar: four
@@ -807,12 +679,6 @@ SplineSet
  129 212 l 1,13,-1
  318 212 l 1,11,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable" four.numr
-Substitution2: "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable" four.dnom
-Substitution2: "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable" four.numr
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni2074
-Substitution2: "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable" uni2084
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2084 uni2074 four.numr four.dnom
 EndChar
 
 StartChar: five
@@ -852,12 +718,6 @@ SplineSet
  304.999511718 -11.0004882812 304.999511718 -11.0004882812 249 -11 c 0,35,0
  192 -11 192 -11 143.5 14 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable" five.numr
-Substitution2: "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable" five.dnom
-Substitution2: "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable" five.numr
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni2075
-Substitution2: "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable" uni2085
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2085 uni2075 five.numr five.dnom
 EndChar
 
 StartChar: six
@@ -903,12 +763,6 @@ SplineSet
  226.998535156 52.0014648438 226.998535156 52.0014648438 263.999023438 52.001953125 c 0,46,31
  308.999023438 52.001953125 308.999023438 52.001953125 339.999023438 90.501953125 c 128,-1,32
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable" six.numr
-Substitution2: "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable" six.dnom
-Substitution2: "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable" six.numr
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni2076
-Substitution2: "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable" uni2086
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2086 uni2076 six.numr six.dnom
 EndChar
 
 StartChar: seven
@@ -927,12 +781,6 @@ SplineSet
  155 0 l 1,7,8
  242 285 242 285 345 557 c 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable" seven.numr
-Substitution2: "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable" seven.dnom
-Substitution2: "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable" seven.numr
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni2077
-Substitution2: "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable" uni2087
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2087 uni2077 seven.numr seven.dnom
 EndChar
 
 StartChar: eight
@@ -980,12 +828,6 @@ SplineSet
  196.995605469 53.0034179688 196.995605469 53.0034179688 251.99609375 53.0029296875 c 0,47,36
  307.995605468 53.0029296875 307.995605468 53.0029296875 338.99609375 83.5029296875 c 128,-1,37
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable" eight.numr
-Substitution2: "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable" eight.dnom
-Substitution2: "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable" eight.numr
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni2078
-Substitution2: "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable" uni2088
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2088 uni2078 eight.numr eight.dnom
 EndChar
 
 StartChar: nine
@@ -1027,12 +869,6 @@ SplineSet
  202 297.001464844 202 297.001464844 250 297.000976562 c 0,41,30
  292 297.000976562 292 297.000976562 320.5 309.000976562 c 128,-1,31
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'frac' Diagonal Fractions in Latin lookup 18 subtable" nine.numr
-Substitution2: "Inconsoliga-Regular-'dnom' Denominators in Latin lookup 16 subtable" nine.dnom
-Substitution2: "Inconsoliga-Regular-'numr' Numerators in Latin lookup 15 subtable" nine.numr
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni2079
-Substitution2: "Inconsoliga-Regular-'subs' Subscript in Latin lookup 13 subtable" uni2089
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2089 uni2079 nine.numr nine.dnom
 EndChar
 
 StartChar: colon
@@ -1061,9 +897,6 @@ SplineSet
  263.000488281 -10.9995117188 263.000488281 -10.9995117188 238 -11 c 128,-1,11
  212.999511718 -11 212.999511718 -11 196 5.5 c 128,-1,12
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-':+AD0A' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'::' Single Substitution (' :')" colon_colon.liga
-Substitution2: "Inconsoliga-Regular-'::' Single Substitution" LIG
 EndChar
 
 StartChar: semicolon
@@ -1114,29 +947,6 @@ SplineSet
  461 47 l 1,6,-1
  35 296 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'<+AFwA>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'</>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<.>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<*' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'-<' Single Substitution" hyphen_less.liga
-Substitution2: "Inconsoliga-Regular-'<*>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<+->' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<->' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<?>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<$>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<|>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<|' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<-' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<<<' Single Substitution ('  <')" less_less_less.liga
-Substitution2: "Inconsoliga-Regular-'<<<' Single Substitution (' < ')" LIG2
-Substitution2: "Inconsoliga-Regular-'<<<' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<<' Single Substitution (' <')" less_less.liga
-Substitution2: "Inconsoliga-Regular-'<<' Single Substitution " LIG
-Substitution2: "Inconsoliga-Regular-'<+AD0A<' Single Substitution ('  <')" less_equal_less.liga
-Substitution2: "Inconsoliga-Regular-'<+AD0A<' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'  <' to '+AD0A<<' Single Substitution" equal_less_less.liga
-Substitution2: "Inconsoliga-Regular-'+AD0A<<' Single Substitution" LIG2
 EndChar
 
 StartChar: equal
@@ -1146,36 +956,18 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-45 429 m 1,0,-1
- 456 429 l 1,1,-1
- 456 368 l 1,2,-1
- 45 368 l 1,3,-1
- 45 429 l 1,0,-1
-45 272 m 1,4,-1
- 456 272 l 1,5,-1
- 456 211 l 1,6,-1
- 45 211 l 1,7,-1
- 45 272 l 1,4,-1
+45 429 m 5,0,-1
+ 456 429 l 5,1,-1
+ 456 368 l 5,2,-1
+ 45 368 l 5,3,-1
+ 45 429 l 5,0,-1
+45 272 m 5,4,-1
+ 456 272 l 5,5,-1
+ 456 211 l 5,6,-1
+ 45 211 l 5,7,-1
+ 45 272 l 5,4,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'>>+AD0A' Single Substitution" LIG2
-Substitution2: "Inconsoliga-Regular-'+AD0A<<' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'+AD0APQAA' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-' +AD0A' to '+AD0APQAA' Single Substitution" equal_equal.liga
-Substitution2: "Inconsoliga-Regular-'+AD0APQA9' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-' +AD0A ' to '+AD0APQA9' Single Substitution" LIG2
-Substitution2: "Inconsoliga-Regular-'+AD0APQA9' Single Substitution ('  +AD0A')" equal_equal_equal.liga
-Substitution2: "Inconsoliga-Regular-'>+AD0A>' Single Substitution" LIG2
-Substitution2: "Inconsoliga-Regular-'+AD0A>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'>>+AD0A' Single Substitution ('  +AD0A')" greater_greater_equal.liga
-Substitution2: "Inconsoliga-Regular-'<+AD0A<' Single Substitution" LIG2
-Substitution2: "Inconsoliga-Regular-'!+AD0A' Single Substitution" exclam_equal.liga
-Substitution2: "Inconsoliga-Regular-'+AD0A!+AD0A' Single Substitution ('  +AD0A')" equal_exclam_equal.liga
-Substitution2: "Inconsoliga-Regular-'+AD0A!+AD0A' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'/+AD0A' Single Substitution" slash_equal.liga
-Substitution2: "Inconsoliga-Regular-':+AD0A' Single Substitution" colon_equal.liga
-Substitution2: "Inconsoliga-Regular-'?+AD0A' Single Substitution" question_equal.liga
-Substitution2: "Inconsoliga-Regular-'^+AD0A' Single Substitution" asciicirum_equal.liga
-Substitution2: "Inconsoliga-Regular-'*+AD0A' Single Substitution" asterisk_equal.liga
+Substitution2: "greater_greater_equal.liga Single Substitution" greater_greater_equal.liga
 EndChar
 
 StartChar: greater
@@ -1194,32 +986,8 @@ SplineSet
  40 47 l 5,6,-1
  40 123 l 5,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'<+AFwA>' Single Substitution" less_backslash_greater.liga
-Substitution2: "Inconsoliga-Regular-'</>' Single Substitution" less_slash_greater.liga
-Substitution2: "Inconsoliga-Regular-'>>-' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'>>-' Single Substitution (' > ')" LIG2
-Substitution2: "Inconsoliga-Regular-'<.>' Single Substitution" less_period_greater.liga
-Substitution2: "Inconsoliga-Regular-'>-' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'*>' Single Substitution" asterisk_greater.liga
-Substitution2: "Inconsoliga-Regular-'<*>' Single Substitution" less_asterisk_greater.liga
-Substitution2: "Inconsoliga-Regular-'<+->' Single Substitution" less_plus_greater.liga
-Substitution2: "Inconsoliga-Regular-'<->' Single Substitution" less_hyphen_greater.liga
-Substitution2: "Inconsoliga-Regular-'<?>' Single Substitution" less_question_greater.liga
-Substitution2: "Inconsoliga-Regular-'<$>' Single Substitution" less_dollar_greater.liga
-Substitution2: "Inconsoliga-Regular-'<|>' Single Substitution" less_bar_greater.liga
-Substitution2: "Inconsoliga-Regular-'|>' Single Substitution" bar_greater.liga
-Substitution2: "Inconsoliga-Regular-'->' Single Substitution" hyphen_greater.liga
-Substitution2: "Inconsoliga-Regular-'>+AD0A>' Single Substitution ('  >')" greater_equal_greater.liga
-Substitution2: "Inconsoliga-Regular-'<>' Single Substitution" less_greater.liga
-Substitution2: "Inconsoliga-Regular-'>>>' Single Substitution ('  >')" greater_greater_greater.liga
-Substitution2: "Inconsoliga-Regular-'>>>' Single Substitution (' > ')" LIG2
-Substitution2: "Inconsoliga-Regular-'>>>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'+AD0A>' Single Substitution" equal_greater.liga
-Substitution2: "Inconsoliga-Regular-'>+AD0A>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'>>+AD0A' Single Substitution (' > ')" LIG2
-Substitution2: "Inconsoliga-Regular-'>>' Single Substitution (' >')" greater_greater.liga
-Substitution2: "Inconsoliga-Regular-'>>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'>>+AD0A' Single Substitution" LIG
+Substitution2: "greater_greater_equal.liga Single Substitution (2nd)" LIG2
+Substitution2: "greater_greater_equal.liga Single Substitution" LIG
 EndChar
 
 StartChar: question
@@ -1264,8 +1032,6 @@ SplineSet
  284.001464844 -10.9995117188 284.001464844 -10.9995117188 261.001953125 -11 c 0,41,32
  237.001953125 -11 237.001953125 -11 220.001953125 6 c 128,-1,33
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'?+AD0A' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<?>' Single Substitution" LIG2
 EndChar
 
 StartChar: at
@@ -1337,8 +1103,6 @@ SplineSet
  167 236 l 1,10,-1
  331 236 l 5,8,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" ordfeminine
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" ordfeminine
 EndChar
 
 StartChar: B
@@ -1729,8 +1493,6 @@ SplineSet
  177.999511718 49.9995117188 177.999511718 49.9995117188 250 50 c 128,-1,10
  322 50 322 50 361.5 117 c 128,-1,11
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" ordmasculine
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" ordmasculine
 EndChar
 
 StartChar: P
@@ -2069,7 +1831,6 @@ SplineSet
  378 -42 l 1,3,-1
  64 634 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'<+AFwA>' Single Substitution" LIG2
 EndChar
 
 StartChar: bracketright
@@ -2107,10 +1868,6 @@ SplineSet
  143 343 l 1,6,-1
  93 367 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'^+AD0A' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'ss01' Style Set 1 in Latin lookup 25 subtable" asciicircum.ss01
-Substitution2: "Inconsoliga-Regular-'salt' Stylistic Alternatives in Latin lookup 24 subtable" asciicircum.ss01
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" asciicircum.ss01
 EndChar
 
 StartChar: underscore
@@ -2141,9 +1898,6 @@ SplineSet
  255 507 l 1,3,-1
  154 642 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" grave.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" grave.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" grave.case
 EndChar
 
 StartChar: a
@@ -2180,8 +1934,6 @@ SplineSet
  121.001953125 44.0009765627 121.001953125 44.0009765627 218.001953125 44.0009765625 c 0,35,26
  292.001464844 44.0009765625 292.001464844 44.0009765625 335.001953125 87.5009765625 c 128,-1,27
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" ordfeminine
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" ordfeminine
 EndChar
 
 StartChar: b
@@ -2485,13 +2237,6 @@ SplineSet
  270.000488282 553 270.000488282 553 249 553 c 128,-1,10
  228 553 228 553 213 568 c 128,-1,11
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" dotlessi
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 12 subtable" i.loclTRK
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 11 subtable" i.loclTRK
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 10 subtable" i.loclTRK
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 9 subtable" i.loclTRK
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 8 subtable" i.loclTRK
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" i.loclTRK dotlessi
 EndChar
 
 StartChar: j
@@ -2530,8 +2275,6 @@ SplineSet
  347.998535156 552.999023438 347.998535156 552.999023438 326.998046875 552.999023438 c 128,-1,23
  305.998046875 552.999023438 305.998046875 552.999023438 290.998046875 567.999023438 c 128,-1,24
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni0237
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni0237
 EndChar
 
 StartChar: k
@@ -2686,8 +2429,6 @@ SplineSet
  210.999511718 52.0004882812 210.999511718 52.0004882812 250 52 c 128,-1,12
  289 52 289 52 319.5 75 c 128,-1,13
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" ordmasculine
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" ordmasculine
 EndChar
 
 StartChar: p
@@ -3080,11 +2821,6 @@ SplineSet
  217 -151 l 1,3,-1
  217 652 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'||' Single Substitution (' |')" bar_bar.liga
-Substitution2: "Inconsoliga-Regular-'||' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<|>' Single Substitution" LIG2
-Substitution2: "Inconsoliga-Regular-'|>' Single Substitution" LIG
-Substitution2: "Inconsoliga-Regular-'<|' Single Substitution" less_bar.liga
 EndChar
 
 StartChar: braceright
@@ -3151,9 +2887,6 @@ SplineSet
  385.000488281 266 385.000488281 266 348 266 c 0,25,0
  322.999511718 266 322.999511718 266 303.5 274 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'ss01' Style Set 1 in Latin lookup 25 subtable" asciitilde.ss01
-Substitution2: "Inconsoliga-Regular-'salt' Stylistic Alternatives in Latin lookup 24 subtable" asciitilde.ss01
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" asciitilde.ss01
 EndChar
 
 StartChar: uni00A0
@@ -3460,9 +3193,6 @@ SplineSet
  361 564.000976562 361 564.000976562 341 564.000976562 c 0,21,11
  320 564.000976562 320 564.000976562 305.5 578.500976562 c 128,-1,12
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" dieresis.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" dieresis.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" dieresis.case
 EndChar
 
 StartChar: copyright
@@ -3841,9 +3571,6 @@ SplineSet
  254 522 l 1,3,-1
  216 548 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" acute.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" acute.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" acute.case
 EndChar
 
 StartChar: uni00B5
@@ -3924,8 +3651,6 @@ SplineSet
  263.000488281 274.000488282 263.000488281 274.000488282 238 274 c 128,-1,0
  212.999511718 274 212.999511718 274 196 290.5 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" periodcentered.loclCAT
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" periodcentered.loclCAT
 EndChar
 
 StartChar: cedilla
@@ -10301,9 +10026,6 @@ SplineSet
  455.000488282 229 455.000488282 229 455 170 c 0,68,0
  455 128 455 128 436 90 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 7 subtable" Scommaaccent
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 6 subtable" Scommaaccent
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" Scommaaccent
 EndChar
 
 StartChar: scedilla
@@ -10362,9 +10084,6 @@ SplineSet
  440.000488282 182.000488282 440.000488282 182.000488282 440 133 c 0,66,0
  440 82 440 82 405 44 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 7 subtable" scommaaccent
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 6 subtable" scommaaccent
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" scommaaccent
 EndChar
 
 StartChar: Scaron
@@ -10506,9 +10225,6 @@ SplineSet
  303 -196.999511718 303 -196.999511718 247 -197 c 0,25,26
  194.000488282 -197 194.000488282 -197 148 -166 c 1,8,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 7 subtable" uni021A
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 6 subtable" uni021A
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni021A
 EndChar
 
 StartChar: uni0163
@@ -10560,9 +10276,6 @@ SplineSet
  278 -47 l 1,53,0
  320 -51.0004882812 320 -51.0004882812 341.5 -69.5 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 7 subtable" uni021B
-Substitution2: "Inconsoliga-Regular-'locl' Localized Forms in Latin lookup 6 subtable" uni021B
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni021B
 EndChar
 
 StartChar: Tcaron
@@ -14346,9 +14059,6 @@ SplineSet
  244 518 l 1,6,-1
  134 659 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" caron.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" caron.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" caron.case
 EndChar
 
 StartChar: uni02C8
@@ -14443,9 +14153,6 @@ SplineSet
  291.999511718 524.000488282 291.999511718 524.000488282 251 524 c 0,10,11
  165.999511718 524 165.999511718 524 101 601 c 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" breve.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" breve.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" breve.case
 EndChar
 
 StartChar: dotaccent
@@ -14465,9 +14172,6 @@ SplineSet
  275.000488282 553 275.000488282 553 254 553 c 128,-1,0
  233 553 233 553 218 568 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" dotaccent.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" dotaccent.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" dotaccent.case
 EndChar
 
 StartChar: ring
@@ -14496,9 +14200,6 @@ SplineSet
  240.000976562 560 240.000976562 560 257.000976562 560 c 128,-1,11
  274.000488281 560 274.000488281 560 286.5 573.5 c 128,-1,12
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" ring.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" ring.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" ring.case
 EndChar
 
 StartChar: ogonek
@@ -14549,9 +14250,6 @@ SplineSet
  371 648.999511719 371 648.999511719 385 677 c 1,25,-1
  431 649 l 1,0,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" tilde.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" tilde.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" tilde.case
 EndChar
 
 StartChar: hungarumlaut
@@ -14572,9 +14270,6 @@ SplineSet
  331 522 l 1,7,-1
  281 552 l 1,4,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" hungarumlaut.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" hungarumlaut.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" hungarumlaut.case
 EndChar
 
 StartChar: gravecomb
@@ -14590,9 +14285,6 @@ SplineSet
  -245 507 l 1,3,-1
  -346 642 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" gravecomb.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" gravecomb.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" gravecomb.case
 EndChar
 
 StartChar: acutecomb
@@ -14608,9 +14300,6 @@ SplineSet
  -246 507 l 1,3,-1
  -284 533 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" acutecomb.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" acutecomb.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" acutecomb.case
 EndChar
 
 StartChar: uni0302
@@ -14629,9 +14318,6 @@ SplineSet
  -361 511 l 1,6,-1
  -401 545 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni0302.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni0302.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni0302.case
 EndChar
 
 StartChar: tildecomb
@@ -14661,9 +14347,6 @@ SplineSet
  -129 648.999511719 -129 648.999511719 -115 677 c 1,25,-1
  -69 649 l 1,0,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" tildecomb.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" tildecomb.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" tildecomb.case
 EndChar
 
 StartChar: uni0304
@@ -14700,9 +14383,6 @@ SplineSet
  -168.000488281 619 -168.000488281 619 -152 654 c 1,11,-1
  -100 630 l 1,0,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni0306.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni0306.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni0306.case
 EndChar
 
 StartChar: uni0307
@@ -14722,9 +14402,6 @@ SplineSet
  -224.999511718 553 -224.999511718 553 -246 553 c 128,-1,0
  -267 553 -267 553 -282 568 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni0307.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni0307.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni0307.case
 EndChar
 
 StartChar: uni0308
@@ -14753,9 +14430,6 @@ SplineSet
  -139 564.000976562 -139 564.000976562 -159 564.000976562 c 0,21,11
  -180 564.000976562 -180 564.000976562 -194.5 578.500976562 c 128,-1,12
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni0308.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni0308.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni0308.case
 EndChar
 
 StartChar: hookabovecomb
@@ -14813,9 +14487,6 @@ SplineSet
  -259.999023438 560 -259.999023438 560 -242.999023438 560 c 128,-1,11
  -225.999511719 560 -225.999511719 560 -213.5 573.5 c 128,-1,12
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni030A.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni030A.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni030A.case
 EndChar
 
 StartChar: uni030B
@@ -14836,9 +14507,6 @@ SplineSet
  -169 522 l 1,7,-1
  -219 552 l 1,4,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni030B.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni030B.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni030B.case
 EndChar
 
 StartChar: uni030C
@@ -14857,9 +14525,6 @@ SplineSet
  -356 688 l 1,6,-1
  -245 578 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni030C.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni030C.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni030C.case
 EndChar
 
 StartChar: uni030F
@@ -14942,9 +14607,6 @@ SplineSet
  -63.9995117188 407.999511718 -63.9995117188 407.999511718 -104 408 c 1,8,-1
  -104 457 l 1,0,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni031B.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni031B.case
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni031B.case
 EndChar
 
 StartChar: dotbelowcomb
@@ -23088,9 +22750,6 @@ SplineSet
  224.001464844 301.998535156 224.001464844 301.998535156 258.001953125 301.999023438 c 0,26,19
  295.002441406 301.999023438 295.002441406 301.999023438 315.502929688 338.999023438 c 128,-1,20
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'ss02' Style Set 2 in Latin lookup 26 subtable" uni2070.ss02
-Substitution2: "Inconsoliga-Regular-'zero' Slashed Zero in Latin lookup 23 subtable" uni2070.zero
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2070.zero uni2070.ss02
 EndChar
 
 StartChar: uni2074
@@ -23367,9 +23026,6 @@ SplineSet
  224.001464844 49.9985351562 224.001464844 49.9985351562 258.001953125 49.9990234375 c 0,26,19
  295.002441406 49.9990234375 295.002441406 49.9990234375 315.502929688 86.9990234375 c 128,-1,20
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'ss02' Style Set 2 in Latin lookup 26 subtable" uni2080.ss02
-Substitution2: "Inconsoliga-Regular-'zero' Slashed Zero in Latin lookup 23 subtable" uni2080.zero
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" uni2080.zero uni2080.ss02
 EndChar
 
 StartChar: uni2081
@@ -24465,7 +24121,6 @@ SplineSet
  297.000976562 396.998046875 l 1,35,-1
 EndSplineSet
 LCarets2: 2 0 0
-Ligature2: "Inconsoliga-Regular-'ordn' Ordinals in Latin lookup 21 subtable" N o period
 EndChar
 
 StartChar: trademark
@@ -25185,8 +24840,6 @@ SplineSet
  45 282 l 1,3,-1
  45 343 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'sups' Superscript in Latin lookup 14 subtable" uni207B
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni207B
 EndChar
 
 StartChar: uni2215
@@ -26838,9 +26491,6 @@ SplineSet
  224.001464844 49.9985351562 224.001464844 49.9985351562 258.001953125 49.9990234375 c 0,26,19
  295.002441406 49.9990234375 295.002441406 49.9990234375 315.502929688 86.9990234375 c 128,-1,20
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-'ss02' Style Set 2 in Latin lookup 26 subtable" zero.dnom.ss02
-Substitution2: "Inconsoliga-Regular-'zero' Slashed Zero in Latin lookup 23 subtable" zero.dnom.zero
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" zero.dnom.zero zero.dnom.ss02
 EndChar
 
 StartChar: one.dnom
@@ -27171,10 +26821,6 @@ SplineSet
  224.001464844 301.998535156 224.001464844 301.998535156 258.001953125 301.999023438 c 0,26,19
  295.002441406 301.999023438 295.002441406 301.999023438 315.502929688 338.999023438 c 128,-1,20
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" zero.dnom
-Substitution2: "Inconsoliga-Regular-'ss02' Style Set 2 in Latin lookup 26 subtable" zero.numr.ss02
-Substitution2: "Inconsoliga-Regular-'zero' Slashed Zero in Latin lookup 23 subtable" zero.numr.zero
-AlternateSubs2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 1 subtable" zero.dnom zero.numr.zero zero.numr.ss02
 EndChar
 
 StartChar: one.numr
@@ -27193,8 +26839,6 @@ SplineSet
  235 253 l 1,6,-1
  235 563 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" one.dnom
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" one.dnom
 EndChar
 
 StartChar: two.numr
@@ -27233,8 +26877,6 @@ SplineSet
  387 310.999511718 387 310.999511718 393 317 c 1,35,-1
  400 317 l 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" two.dnom
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" two.dnom
 EndChar
 
 StartChar: three.numr
@@ -27276,8 +26918,6 @@ SplineSet
  299.000488281 246.999511718 299.000488281 246.999511718 259 247 c 0,43,44
  169 247 169 247 112 316 c 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" three.dnom
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" three.dnom
 EndChar
 
 StartChar: four.numr
@@ -27304,8 +26944,6 @@ SplineSet
  154 396 l 1,13,-1
  284 396 l 1,11,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" four.dnom
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" four.dnom
 EndChar
 
 StartChar: five.numr
@@ -27341,8 +26979,6 @@ SplineSet
  229.000488282 508.999511718 229.000488282 508.999511718 267 509 c 0,32,0
  319.999511718 509 319.999511718 509 353 474.5 c 128,-1,1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" five.dnom
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" five.dnom
 EndChar
 
 StartChar: six.numr
@@ -27382,8 +27018,6 @@ SplineSet
  226.000488281 304.002441406 226.000488281 304.002441406 260.000976562 304.001953125 c 0,40,28
  289.000488281 304.001953125 289.000488281 304.001953125 305.500976562 322.501953125 c 128,-1,29
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" six.dnom
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" six.dnom
 EndChar
 
 StartChar: seven.numr
@@ -27402,8 +27036,6 @@ SplineSet
  171.999023438 253 l 1,7,8
  214.999511719 382 214.999511719 382 297 579 c 1,0,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" seven.dnom
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" seven.dnom
 EndChar
 
 StartChar: eight.numr
@@ -27448,8 +27080,6 @@ SplineSet
  216.997558594 301.998535156 216.997558594 301.998535156 249.998046875 301.998046875 c 0,45,34
  283.998535156 301.998046875 283.998535156 301.998046875 299.999023438 316.998046875 c 128,-1,35
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" eight.dnom
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" eight.dnom
 EndChar
 
 StartChar: nine.numr
@@ -27490,8 +27120,6 @@ SplineSet
  228.998535156 445.000488282 228.998535156 445.000488282 253.999023438 445 c 0,41,28
  274.999023438 445 274.999023438 445 292.999023438 456 c 128,-1,29
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" nine.dnom
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" nine.dnom
 EndChar
 
 StartChar: uni2080.ss02
@@ -28373,7 +28001,6 @@ SplineSet
  -238.00390625 638 l 1,15,-1
  -276.00390625 664 l 1,12,-1
 EndSplineSet
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0306 acutecomb
 EndChar
 
 StartChar: uni03060300
@@ -28400,7 +28027,6 @@ SplineSet
  -237.00390625 638 l 1,15,-1
  -338.00390625 773 l 1,12,-1
 EndSplineSet
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0306 gravecomb
 EndChar
 
 StartChar: uni03060309
@@ -28441,7 +28067,6 @@ SplineSet
  -163.003417968 791.000488282 -163.003417968 791.000488282 -163.00390625 757 c 0,37,12
  -163.00390625 737.999511718 -163.00390625 737.999511718 -170.00390625 727.5 c 128,-1,13
 EndSplineSet
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0306 hookabovecomb
 EndChar
 
 StartChar: uni03060303
@@ -28480,7 +28105,6 @@ SplineSet
  -154.00390625 751.000488281 -154.00390625 751.000488281 -144.00390625 774 c 1,35,-1
  -98.00390625 750 l 1,12,13
 EndSplineSet
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0306 tildecomb
 EndChar
 
 StartChar: uni03020301
@@ -28504,10 +28128,6 @@ SplineSet
  -109 631 l 1,10,-1
  -147 657 l 1,7,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni03020301.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni03020301.case
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0302 acutecomb
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni03020301.case
 EndChar
 
 StartChar: uni03020300
@@ -28531,10 +28151,6 @@ SplineSet
  -115 652 l 1,10,-1
  -216 787 l 1,7,-1
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni03020300.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni03020300.case
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0302 gravecomb
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni03020300.case
 EndChar
 
 StartChar: uni03020309
@@ -28572,10 +28188,6 @@ SplineSet
  -42.9995117188 764.000488282 -42.9995117188 764.000488282 -43 730 c 0,32,7
  -43 710.999511718 -43 710.999511718 -50 700.5 c 128,-1,8
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni03020309.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni03020309.case
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0302 hookabovecomb
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni03020309.case
 EndChar
 
 StartChar: uni03020303
@@ -28611,10 +28223,6 @@ SplineSet
  -153 773.000488281 -153 773.000488281 -143 796 c 1,30,-1
  -97 772 l 1,7,8
 EndSplineSet
-Substitution2: "Inconsoliga-Regular-Single Substitution lookup 28 subtable" uni03020303.case
-Substitution2: "Inconsoliga-Regular-'case' Case-Sensitive Forms in Latin lookup 22 subtable" uni03020303.case
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0302 tildecomb
-Substitution2: "Inconsoliga-Regular-'aalt' Access All Alternates in Latin lookup 0 subtable" uni03020303.case
 EndChar
 
 StartChar: uni03020301.case
@@ -28638,7 +28246,6 @@ SplineSet
  -130 766 l 1,10,-1
  -153 808 l 1,7,-1
 EndSplineSet
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0302.case acutecomb.case
 EndChar
 
 StartChar: uni03020300.case
@@ -28662,7 +28269,6 @@ SplineSet
  -143 798 l 1,10,-1
  -313 859 l 1,7,-1
 EndSplineSet
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0302.case gravecomb.case
 EndChar
 
 StartChar: uni03020309.case
@@ -28735,7 +28341,6 @@ SplineSet
  -163 882.000488281 -163 882.000488281 -153 905 c 1,30,-1
  -107 881 l 1,7,8
 EndSplineSet
-Ligature2: "Inconsoliga-Regular-'ccmp' Glyph Composition/Decomposition in Latin lookup 4 subtable" uni0302.case tildecomb.case
 EndChar
 
 StartChar: LIG
@@ -28745,8 +28350,22 @@ Flags: W
 LayerCount: 2
 EndChar
 
-StartChar: equal_equal_equal.liga
+StartChar: LIG2
 Encoding: 65613 -1 797
+Width: 500
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: LIG3
+Encoding: 65614 -1 798
+Width: 500
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: equal_equal_equal.liga
+Encoding: 65615 -1 799
 Width: 500
 Flags: W
 LayerCount: 2
@@ -28766,7 +28385,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater_greater_equal.liga
-Encoding: 65614 -1 798
+Encoding: 65616 -1 800
 Width: 500
 Flags: W
 LayerCount: 2
@@ -28800,7 +28419,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal_less_less.liga
-Encoding: 65615 -1 799
+Encoding: 65617 -1 801
 Width: 500
 Flags: W
 LayerCount: 2
@@ -28834,7 +28453,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater_equal_greater.liga
-Encoding: 65616 -1 800
+Encoding: 65618 -1 802
 Width: 500
 Flags: W
 LayerCount: 2
@@ -28869,7 +28488,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_equal_less.liga
-Encoding: 65617 -1 801
+Encoding: 65619 -1 803
 Width: 500
 Flags: W
 LayerCount: 2
@@ -28903,8 +28522,46 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: less_equal_greater.liga
+Encoding: 65620 60 804
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+40 123 m 1,0,-1
+ 389 319 l 1,1,-1
+ 42 496 l 1,2,-1
+ 42 567 l 1,3,-1
+ 466 344 l 1,4,-1
+ 466 296 l 1,5,-1
+ 40 47 l 1,6,-1
+ 40 123 l 1,0,-1
+-455 429 m 1,7,-1
+ -44 429 l 1,8,-1
+ -44 368 l 1,9,-1
+ -455 368 l 1,10,-1
+ -455 429 l 1,7,-1
+-455 272 m 1,11,-1
+ -44 272 l 1,12,-1
+ -44 211 l 1,13,-1
+ -455 211 l 1,14,-1
+ -455 272 l 1,11,-1
+-965 296 m 1,15,-1
+ -965 344 l 1,16,-1
+ -542 567 l 1,17,-1
+ -542 496 l 1,18,-1
+ -889 319 l 1,19,-1
+ -539 123 l 1,20,-1
+ -539 47 l 1,21,-1
+ -965 296 l 1,15,-1
+EndSplineSet
+Substitution2: "greater_greater_equal.liga Single Substitution (2nd)" LIG2
+Substitution2: "greater_greater_equal.liga Single Substitution" LIG
+EndChar
+
 StartChar: greater_greater_greater.liga
-Encoding: 65618 -1 802
+Encoding: 65621 -1 805
 Width: 529
 Flags: W
 LayerCount: 2
@@ -28938,7 +28595,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_less_less.liga
-Encoding: 65619 -1 803
+Encoding: 65622 -1 806
 Width: 529
 Flags: W
 LayerCount: 2
@@ -28972,7 +28629,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater_greater_hyphen.liga
-Encoding: 65620 -1 804
+Encoding: 65623 -1 807
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29000,7 +28657,7 @@ EndSplineSet
 EndChar
 
 StartChar: hyphen_less_less.liga
-Encoding: 65621 -1 805
+Encoding: 65624 -1 808
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29028,7 +28685,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal_exclam_equal.liga
-Encoding: 65622 -1 806
+Encoding: 65625 -1 809
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29074,7 +28731,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclam_equal_equal.liga
-Encoding: 65623 -1 807
+Encoding: 65626 -1 810
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29120,7 +28777,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal_equal_exclam.liga
-Encoding: 65624 -1 808
+Encoding: 65627 -1 811
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29166,7 +28823,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_bar_greater.liga
-Encoding: 65625 -1 809
+Encoding: 65628 -1 812
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29197,7 +28854,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_dollar_greater.liga
-Encoding: 65626 -1 810
+Encoding: 65629 -1 813
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29286,7 +28943,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_question_greater.liga
-Encoding: 65627 -1 811
+Encoding: 65630 -1 814
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29369,7 +29026,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_slash_greater.liga
-Encoding: 65628 -1 812
+Encoding: 65631 -1 815
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29400,7 +29057,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_backslash_greater.liga
-Encoding: 65629 -1 813
+Encoding: 65632 -1 816
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29431,7 +29088,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_hyphen_greater.liga
-Encoding: 65630 -1 814
+Encoding: 65633 -1 817
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29458,7 +29115,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_exclam_greater.liga
-Encoding: 65631 -1 815
+Encoding: 65634 -1 818
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29500,7 +29157,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_plus_greater.liga
-Encoding: 65632 -1 816
+Encoding: 65635 -1 819
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29539,7 +29196,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_asterisk_greater.liga
-Encoding: 65633 -1 817
+Encoding: 65636 -1 820
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29581,7 +29238,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_period_greater.liga
-Encoding: 65634 -1 818
+Encoding: 65637 -1 821
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29616,7 +29273,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk_asterisk_asterisk.liga
-Encoding: 65635 -1 819
+Encoding: 65638 -1 822
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29674,7 +29331,7 @@ EndSplineSet
 EndChar
 
 StartChar: and_and_and.liga
-Encoding: 65636 -1 820
+Encoding: 65639 -1 823
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29873,7 +29530,7 @@ EndSplineSet
 EndChar
 
 StartChar: bar_bar_bar.liga
-Encoding: 65637 -1 821
+Encoding: 65640 -1 824
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29898,7 +29555,7 @@ EndSplineSet
 EndChar
 
 StartChar: plus_plus_plus.liga
-Encoding: 65638 -1 822
+Encoding: 65641 -1 825
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29937,7 +29594,7 @@ EndSplineSet
 EndChar
 
 StartChar: period_period_period.liga
-Encoding: 65639 -1 823
+Encoding: 65642 -1 826
 Width: 500
 Flags: W
 LayerCount: 2
@@ -29974,7 +29631,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclam_exclam_exclam.liga
-Encoding: 65640 -1 824
+Encoding: 65643 -1 827
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30032,7 +29689,7 @@ EndSplineSet
 EndChar
 
 StartChar: circum_greater_greater.liga
-Encoding: 65641 -1 825
+Encoding: 65644 -1 828
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30066,7 +29723,7 @@ EndSplineSet
 EndChar
 
 StartChar: circum_less_less.liga
-Encoding: 65642 -1 826
+Encoding: 65645 -1 829
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30100,7 +29757,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater_greater_circum.liga
-Encoding: 65643 -1 827
+Encoding: 65646 -1 830
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30134,7 +29791,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_less_circum.liga
-Encoding: 65644 -1 828
+Encoding: 65647 -1 831
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30168,7 +29825,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon_equal_equal.liga
-Encoding: 65645 -1 829
+Encoding: 65648 -1 832
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30216,7 +29873,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal_colon_equal.liga
-Encoding: 65646 -1 830
+Encoding: 65649 -1 833
 Width: 500
 Flags: W
 HStem: 211 61<-85 342> 368 61<-85 342>
@@ -30266,7 +29923,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal_equal_colon.liga
-Encoding: 65647 -1 831
+Encoding: 65650 -1 834
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30313,15 +29970,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: LIG2
-Encoding: 65648 -1 832
-Width: 500
-Flags: W
-LayerCount: 2
-EndChar
-
 StartChar: equal_equal.liga
-Encoding: 65649 -1 833
+Encoding: 65652 -1 835
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30341,7 +29991,7 @@ EndSplineSet
 EndChar
 
 StartChar: equal_greater.liga
-Encoding: 65650 -1 834
+Encoding: 65653 -1 836
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30367,7 +30017,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_less.liga
-Encoding: 65651 -1 835
+Encoding: 65654 -1 837
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30393,7 +30043,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater_greater.liga
-Encoding: 65652 -1 836
+Encoding: 65655 -1 838
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30419,7 +30069,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_greater.liga
-Encoding: 65653 -1 837
+Encoding: 65656 -1 839
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30441,7 +30091,7 @@ EndSplineSet
 EndChar
 
 StartChar: hyphen_greater.liga
-Encoding: 65654 -1 838
+Encoding: 65657 -1 840
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30462,7 +30112,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_hyphen.liga
-Encoding: 65655 -1 839
+Encoding: 65658 -1 841
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30483,7 +30133,7 @@ EndSplineSet
 EndChar
 
 StartChar: exclam_equal.liga
-Encoding: 65656 -1 840
+Encoding: 65659 -1 842
 Width: 500
 Flags: W
 HStem: 211 61<-133 307> 368 61<-122 307>
@@ -30520,7 +30170,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_bar.liga
-Encoding: 65657 -1 841
+Encoding: 65660 -1 843
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30543,7 +30193,7 @@ EndSplineSet
 EndChar
 
 StartChar: bar_greater.liga
-Encoding: 65658 -1 842
+Encoding: 65661 -1 844
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30566,7 +30216,7 @@ EndSplineSet
 EndChar
 
 StartChar: less_asterisk.liga
-Encoding: 65659 -1 843
+Encoding: 65662 -1 845
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30599,42 +30249,8 @@ SplineSet
 EndSplineSet
 EndChar
 
-StartChar: asterisk_greater.liga
-Encoding: 65660 -1 844
-Width: 500
-Flags: W
-LayerCount: 2
-Fore
-SplineSet
-466 296 m 1,0,-1
- 466 344 l 1,1,-1
- -17 587 l 1,2,-1
- -17 516 l 1,3,-1
- 390 319 l 1,4,-1
- -19 93 l 1,5,-1
- -19 17 l 1,6,-1
- 466 296 l 1,0,-1
--466 245 m 1,7,-1
- -288 332 l 1,8,-1
- -427 448 l 1,9,-1
- -377 498 l 1,10,-1
- -258 365 l 1,11,-1
- -203 534 l 1,12,-1
- -132 503 l 1,13,-1
- -217 347 l 1,14,-1
- -43 352 l 1,15,-1
- -43 285 l 1,16,-1
- -220 304 l 1,17,-1
- -163 116 l 1,18,-1
- -231 98 l 1,19,-1
- -265 293 l 1,20,-1
- -434 183 l 1,21,-1
- -466 245 l 1,7,-1
-EndSplineSet
-EndChar
-
 StartChar: hyphen_less.liga
-Encoding: 65661 -1 845
+Encoding: 65664 -1 846
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30654,7 +30270,7 @@ EndSplineSet
 EndChar
 
 StartChar: greater_hyphen.liga
-Encoding: 65662 -1 846
+Encoding: 65665 -1 847
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30674,7 +30290,7 @@ EndSplineSet
 EndChar
 
 StartChar: ampersand_ampersand.liga
-Encoding: 65664 -1 847
+Encoding: 65667 -1 848
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30766,7 +30382,7 @@ EndSplineSet
 EndChar
 
 StartChar: bar_bar.liga
-Encoding: 65665 -1 848
+Encoding: 65668 -1 849
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30786,7 +30402,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon_colon.liga
-Encoding: 65666 -1 849
+Encoding: 65669 -1 850
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30832,7 +30448,7 @@ EndSplineSet
 EndChar
 
 StartChar: plus_plus.liga
-Encoding: 65667 -1 850
+Encoding: 65670 -1 851
 Width: 500
 Flags: W
 LayerCount: 2
@@ -30863,7 +30479,7 @@ EndSplineSet
 EndChar
 
 StartChar: slash_equal.liga
-Encoding: 65668 -1 851
+Encoding: 65671 -1 852
 Width: 500
 Flags: W
 HStem: 211 61<-135 342> 368 61<-62 342>
@@ -30889,7 +30505,7 @@ EndSplineSet
 EndChar
 
 StartChar: question_equal.liga
-Encoding: 65669 -1 852
+Encoding: 65672 -1 853
 Width: 500
 Flags: W
 HStem: 211 61<-122 -112> 368 61<-14.2014 377>
@@ -30956,8 +30572,42 @@ SplineSet
 EndSplineSet
 EndChar
 
+StartChar: asterisk_greater.liga
+Encoding: 65663 -1 854
+Width: 500
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+466 296 m 1,0,-1
+ 466 344 l 1,1,-1
+ -17 587 l 1,2,-1
+ -17 516 l 1,3,-1
+ 390 319 l 1,4,-1
+ -19 93 l 1,5,-1
+ -19 17 l 1,6,-1
+ 466 296 l 1,0,-1
+-466 245 m 1,7,-1
+ -288 332 l 1,8,-1
+ -427 448 l 1,9,-1
+ -377 498 l 1,10,-1
+ -258 365 l 1,11,-1
+ -203 534 l 1,12,-1
+ -132 503 l 1,13,-1
+ -217 347 l 1,14,-1
+ -43 352 l 1,15,-1
+ -43 285 l 1,16,-1
+ -220 304 l 1,17,-1
+ -163 116 l 1,18,-1
+ -231 98 l 1,19,-1
+ -265 293 l 1,20,-1
+ -434 183 l 1,21,-1
+ -466 245 l 1,7,-1
+EndSplineSet
+EndChar
+
 StartChar: asciicirum_equal.liga
-Encoding: 65670 -1 853
+Encoding: 65673 -1 855
 Width: 500
 Flags: W
 HStem: 211 61<-76 377> 368 61<-9 377>
@@ -30986,7 +30636,7 @@ EndSplineSet
 EndChar
 
 StartChar: asterisk_equal.liga
-Encoding: 65671 -1 854
+Encoding: 65674 -1 856
 Width: 500
 Flags: W
 HStem: 211 61<1.34082 421> 368 61<43 421>
@@ -31025,7 +30675,7 @@ EndSplineSet
 EndChar
 
 StartChar: colon_equal.liga
-Encoding: 65672 -1 855
+Encoding: 65675 -1 857
 Width: 500
 Flags: W
 HStem: 211 61<-85 342> 368 61<-85 342>
