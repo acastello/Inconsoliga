@@ -23,7 +23,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1527956454
-ModificationTime: 1527975784
+ModificationTime: 1528023589
 PfmFamily: 81
 TTFWeight: 400
 TTFWidth: 5
@@ -58,8 +58,1053 @@ OS2XHeight: 457
 OS2Vendor: 'CYRE'
 OS2CodePages: 20000193.00000000
 OS2UnicodeRanges: 20000007.00000001.00000000.00000000
+Lookup: 1 0 0 "ampers_ampers_ampers.liga Single Substitution (1rd)" { "ampers_ampers_ampers.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "ampers_ampers_ampers.liga Single Substitution (2nd)" { "ampers_ampers_ampers.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "ampers_ampers_ampers.liga Single Substitution" { "ampers_ampers_ampers.liga Single Substitution"  } []
+Lookup: 6 0 0 "'&&&' Contextual Alternates" { "'&&&' Contextual Alternates 1"  "'&&&' Contextual Alternates 2"  "'&&&' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 6 0 0 "'+AD0A:+AD0A' Contextual Alternates" { "'+AD0A:+AD0A' Contextual Alternates 1"  "'+AD0A:+AD0A' Contextual Alternates 2"  "'+AD0A:+AD0A' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "equal_colon_equal.liga Single Substitution (1rd)" { "equal_colon_equal.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "equal_colon_equal.liga Single Substitution" { "equal_colon_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "'!!!' Contextual Alternates" { "'!!!' Contextual Alternates 1"  "'!!!' Contextual Alternates 2"  "'!!!' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "exclam_exclam_exclam.liga Single Substitution (1rd)" { "exclam_exclam_exclam.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "exclam_exclam_exclam.liga Single Substitution (2nd)" { "exclam_exclam_exclam.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "exclam_exclam_exclam.liga Single Substitution" { "exclam_exclam_exclam.liga Single Substitution"  } []
+Lookup: 6 0 0 "'...' Contextual Alternates" { "'...' Contextual Alternates 1"  "'...' Contextual Alternates 2"  "'...' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "period_period_period.liga Single Substitution (1rd)" { "period_period_period.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "period_period_period.liga Single Substitution (2nd)" { "period_period_period.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "period_period_period.liga Single Substitution" { "period_period_period.liga Single Substitution"  } []
+Lookup: 6 0 0 "'+-+-+-' Contextual Alternates" { "'+-+-+-' Contextual Alternates 1"  "'+-+-+-' Contextual Alternates 2"  "'+-+-+-' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "plus_plus_plus.liga Single Substitution (1rd)" { "plus_plus_plus.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "plus_plus_plus.liga Single Substitution (2nd)" { "plus_plus_plus.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "plus_plus_plus.liga Single Substitution" { "plus_plus_plus.liga Single Substitution"  } []
+Lookup: 6 0 0 "'|||' Contextual Alternates" { "'|||' Contextual Alternates 1"  "'|||' Contextual Alternates 2"  "'|||' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "bar_bar_bar.liga Single Substitution (1rd)" { "bar_bar_bar.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "bar_bar_bar.liga Single Substitution (2nd)" { "bar_bar_bar.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "bar_bar_bar.liga Single Substitution" { "bar_bar_bar.liga Single Substitution"  } []
+Lookup: 6 0 0 "'***' Contextual Alternates" { "'***' Contextual Alternates 1"  "'***' Contextual Alternates 2"  "'***' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "asterisk_asterisk_asterisk.liga Single Substitution (1rd)" { "asterisk_asterisk_asterisk.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "asterisk_asterisk_asterisk.liga Single Substitution (2nd)" { "asterisk_asterisk_asterisk.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "asterisk_asterisk_asterisk.liga Single Substitution" { "asterisk_asterisk_asterisk.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<.>' Contextual Alternates" { "'<.>' Contextual Alternates 1"  "'<.>' Contextual Alternates 2"  "'<.>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_period_greater.liga Single Substitution" { "less_period_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<*>' Contextual Alternates" { "'<*>' Contextual Alternates 1"  "'<*>' Contextual Alternates 2"  "'<*>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_asterisk_greater.liga Single Substitution" { "less_asterisk_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<+->' Contextual Alternates" { "'<+->' Contextual Alternates 1"  "'<+->' Contextual Alternates 2"  "'<+->' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_plus_greater.liga Single Substitution" { "less_plus_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<!>' Contextual Alternates" { "'<!>' Contextual Alternates 1"  "'<!>' Contextual Alternates 2"  "'<!>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_exclam_greater.liga Single Substitution" { "less_exclam_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<->' Contextual Alternates" { "'<->' Contextual Alternates 1"  "'<->' Contextual Alternates 2"  "'<->' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_hyphen_greater.liga Single Substitution" { "less_hyphen_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<+AFwA>' Contextual Alternates" { "'<+AFwA>' Contextual Alternates 1"  "'<+AFwA>' Contextual Alternates 2"  "'<+AFwA>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_backslash_greater.liga Single Substitution" { "less_backslash_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'</>' Contextual Alternates" { "'</>' Contextual Alternates 1"  "'</>' Contextual Alternates 2"  "'</>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_slash_greater.liga Single Substitution" { "less_slash_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<?>' Contextual Alternates" { "'<?>' Contextual Alternates 1"  "'<?>' Contextual Alternates 2"  "'<?>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_question_greater.liga Single Substitution" { "less_question_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<$>' Contextual Alternates" { "'<$>' Contextual Alternates 1"  "'<$>' Contextual Alternates 2"  "'<$>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_dollar_greater.liga Single Substitution" { "less_dollar_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<|>' Contextual Alternates" { "'<|>' Contextual Alternates 1"  "'<|>' Contextual Alternates 2"  "'<|>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_bar_greater.liga Single Substitution" { "less_bar_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'+AD0A!+AD0A' Contextual Alternates" { "'+AD0A!+AD0A' Contextual Alternates 1"  "'+AD0A!+AD0A' Contextual Alternates 2"  "'+AD0A!+AD0A' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "equal_exclam_equal.liga Single Substitution (1rd)" { "equal_exclam_equal.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "equal_exclam_equal.liga Single Substitution" { "equal_exclam_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "'-<<' Contextual Alternates" { "'-<<' Contextual Alternates 1"  "'-<<' Contextual Alternates 2"  "'-<<' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "hyphen_less_less.liga Single Substitution (1rd)" { "hyphen_less_less.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "hyphen_less_less.liga Single Substitution" { "hyphen_less_less.liga Single Substitution"  } []
+Lookup: 6 0 0 "'>>-' Contextual Alternates" { "'>>-' Contextual Alternates 1"  "'>>-' Contextual Alternates 2"  "'>>-' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "greater_greater_hyphen.liga Single Substitution (2nd)" { "greater_greater_hyphen.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "greater_greater_hyphen.liga Single Substitution" { "greater_greater_hyphen.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<<<' Contextual Alternates" { "'<<<' Contextual Alternates 1"  "'<<<' Contextual Alternates 2"  "'<<<' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_less_less.liga Single Substitution (1rd)" { "less_less_less.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "less_less_less.liga Single Substitution (2nd)" { "less_less_less.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "less_less_less.liga Single Substitution" { "less_less_less.liga Single Substitution"  } []
+Lookup: 6 0 0 "'>>>' Contextual Alternates" { "'>>>' Contextual Alternates 1"  "'>>>' Contextual Alternates 2"  "'>>>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "greater_greater_greater.liga Single Substitution (1rd)" { "greater_greater_greater.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "greater_greater_greater.liga Single Substitution (2nd)" { "greater_greater_greater.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "greater_greater_greater.liga Single Substitution" { "greater_greater_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<+AD0A>' Contextual Alternates" { "'<+AD0A>' Contextual Alternates 1"  "'<+AD0A>' Contextual Alternates 2"  "'<+AD0A>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_equal_greater.liga Single Substitution" { "less_equal_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<+AD0A<' Contextual Alternates" { "'<+AD0A<' Contextual Alternates 1"  "'<+AD0A<' Contextual Alternates 2"  "'<+AD0A<' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_equal_less.liga Single Substitution (1rd)" { "less_equal_less.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "less_equal_less.liga Single Substitution" { "less_equal_less.liga Single Substitution"  } []
+Lookup: 6 0 0 "'>+AD0A>' Contextual Alternates" { "'>+AD0A>' Contextual Alternates 1"  "'>+AD0A>' Contextual Alternates 2"  "'>+AD0A>' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "greater_equal_greater.liga Single Substitution (1rd)" { "greater_equal_greater.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "greater_equal_greater.liga Single Substitution" { "greater_equal_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'+AD0A<<' Contextual Alternates" { "'+AD0A<<' Contextual Alternates 1"  "'+AD0A<<' Contextual Alternates 2"  "'+AD0A<<' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "equal_less_less.liga Single Substitution (1rd)" { "equal_less_less.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "equal_less_less.liga Single Substitution" { "equal_less_less.liga Single Substitution"  } []
+Lookup: 6 0 0 "'>>+AD0A' Contextual Alternates" { "'>>+AD0A' Contextual Alternates 1"  "'>>+AD0A' Contextual Alternates 2"  "'>>+AD0A' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "greater_greater_equal.liga Single Substitution (2nd)" { "greater_greater_equal.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "greater_greater_equal.liga Single Substitution" { "greater_greater_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "'+AD0APQA9' Contextual Alternates" { "'+AD0APQA9' Contextual Alternates 1"  "'+AD0APQA9' Contextual Alternates 2"  "'+AD0APQA9' Contextual Alternates 3"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "equal_equal_equal.liga Single Substitution (1rd)" { "equal_equal_equal.liga Single Substitution (1rd)"  } []
+Lookup: 1 0 0 "equal_equal_equal.liga Single Substitution (2nd)" { "equal_equal_equal.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "equal_equal_equal.liga Single Substitution" { "equal_equal_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "':+AD0A' Contextual Alternates" { "':+AD0A' Contextual Alternates 1"  "':+AD0A' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "colon_equal.liga Single Substitution" { "colon_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "'*+AD0A' Contextual Alternates" { "'*+AD0A' Contextual Alternates 1"  "'*+AD0A' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "asterisk_equal.liga Single Substitution" { "asterisk_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "'^+AD0A' Contextual Alternates" { "'^+AD0A' Contextual Alternates 1"  "'^+AD0A' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "asciicircum_equal.liga Single Substitution" { "asciicircum_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "'?+AD0A' Contextual Alternates" { "'?+AD0A' Contextual Alternates 1"  "'?+AD0A' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "question_equal.liga Single Substitution" { "question_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "'/+AD0A' Contextual Alternates" { "'/+AD0A' Contextual Alternates 1"  "'/+AD0A' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "slash_equal.liga Single Substitution" { "slash_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "'+-+-' Contextual Alternates" { "'+-+-' Contextual Alternates 1"  "'+-+-' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "plus_plus.liga Single Substitution (2nd)" { "plus_plus.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "plus_plus.liga Single Substitution" { "plus_plus.liga Single Substitution"  } []
+Lookup: 6 0 0 "'::' Contextual Alternates" { "'::' Contextual Alternates 1"  "'::' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "colon_colon.liga Single Substitution (2nd)" { "colon_colon.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "colon_colon.liga Single Substitution" { "colon_colon.liga Single Substitution"  } []
+Lookup: 6 0 0 "'||' Contextual Alternates" { "'||' Contextual Alternates 1"  "'||' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "bar_bar.liga Single Substitution (2nd)" { "bar_bar.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "bar_bar.liga Single Substitution" { "bar_bar.liga Single Substitution"  } []
+Lookup: 6 0 0 "'&&' Contextual Alternates" { "'&&' Contextual Alternates 1"  "'&&' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "ampersand_ampersand.liga Single Substitution (2nd)" { "ampersand_ampersand.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "ampersand_ampersand.liga Single Substitution" { "ampersand_ampersand.liga Single Substitution"  } []
+Lookup: 6 0 0 "'>-' Contextual Alternates" { "'>-' Contextual Alternates 1"  "'>-' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "greater_hyphen.liga Single Substitution" { "greater_hyphen.liga Single Substitution"  } []
+Lookup: 6 0 0 "'-<' Contextual Alternates" { "'-<' Contextual Alternates 1"  "'-<' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "hyphen_less.liga Single Substitution" { "hyphen_less.liga Single Substitution"  } []
+Lookup: 6 0 0 "'*>' Contextual Alternates" { "'*>' Contextual Alternates 1"  "'*>' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "asterisk_greater.liga Single Substitution" { "asterisk_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<*' Contextual Alternates" { "'<*' Contextual Alternates 1"  "'<*' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_asterisk.liga Single Substitution" { "less_asterisk.liga Single Substitution"  } []
+Lookup: 6 0 0 "'|>' Contextual Alternates" { "'|>' Contextual Alternates 1"  "'|>' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "bar_greater.liga Single Substitution" { "bar_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<|' Contextual Alternates" { "'<|' Contextual Alternates 1"  "'<|' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_bar.liga Single Substitution" { "less_bar.liga Single Substitution"  } []
+Lookup: 6 0 0 "'!+AD0A' Contextual Alternates" { "'!+AD0A' Contextual Alternates 1"  "'!+AD0A' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "exclam_equal.liga Single Substitution" { "exclam_equal.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<-' Contextual Alternates" { "'<-' Contextual Alternates 1"  "'<-' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_hyphen.liga Single Substitution" { "less_hyphen.liga Single Substitution"  } []
+Lookup: 6 0 0 "'->' Contextual Alternates" { "'->' Contextual Alternates 1"  "'->' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "hyphen_greater.liga Single Substitution" { "hyphen_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<>' Contextual Alternates" { "'<>' Contextual Alternates 1"  "'<>' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_greater.liga Single Substitution" { "less_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'>>' Contextual Alternates" { "'>>' Contextual Alternates 1"  "'>>' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "greater_greater.liga Single Substitution (2nd)" { "greater_greater.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "greater_greater.liga Single Substitution" { "greater_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'<<' Contextual Alternates" { "'<<' Contextual Alternates 1"  "'<<' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "less_less.liga Single Substitution (2nd)" { "less_less.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "less_less.liga Single Substitution" { "less_less.liga Single Substitution"  } []
+Lookup: 6 0 0 "'+AD0A>' Contextual Alternates" { "'+AD0A>' Contextual Alternates 1"  "'+AD0A>' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "equal_greater.liga Single Substitution" { "equal_greater.liga Single Substitution"  } []
+Lookup: 6 0 0 "'+AD0APQAA' Contextual Alternates" { "'+AD0APQAA' Contextual Alternates 1"  "'+AD0APQAA' Contextual Alternates 2"  } ['calt' ('DFLT' <'dflt' > 'arab' <'dflt' > 'armn' <'dflt' > 'cyrl' <'SRB ' 'dflt' > 'geor' <'dflt' > 'grek' <'dflt' > 'lao ' <'dflt' > 'latn' <'CAT ' 'ESP ' 'GAL ' 'ISM ' 'KSM ' 'LSM ' 'MOL ' 'NSM ' 'ROM ' 'SKS ' 'SSM ' 'dflt' > 'math' <'dflt' > 'thai' <'dflt' > ) ]
+Lookup: 1 0 0 "equal_equal.liga Single Substitution (2nd)" { "equal_equal.liga Single Substitution (2nd)"  } []
+Lookup: 1 0 0 "equal_equal.liga Single Substitution" { "equal_equal.liga Single Substitution"  } []
 MarkAttachClasses: 1
 DEI: 91125
+ChainSub2: glyph "'&&&' Contextual Alternates 1" 0 0 0 1
+ String: 9 ampersand
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "ampers_ampers_ampers.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'&&&' Contextual Alternates 2" 0 0 0 1
+ String: 9 ampersand
+ BString: 3 LIG
+ FString: 9 ampersand
+ 1
+  SeqLookup: 0 "ampers_ampers_ampers.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'&&&' Contextual Alternates 3" 0 0 0 1
+ String: 9 ampersand
+ BString: 0 
+ FString: 19 ampersand ampersand
+ 1
+  SeqLookup: 0 "ampers_ampers_ampers.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'|||' Contextual Alternates 1" 0 0 0 1
+ String: 3 bar
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "bar_bar_bar.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'|||' Contextual Alternates 2" 0 0 0 1
+ String: 3 bar
+ BString: 3 LIG
+ FString: 3 bar
+ 1
+  SeqLookup: 0 "bar_bar_bar.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'|||' Contextual Alternates 3" 0 0 0 1
+ String: 3 bar
+ BString: 0 
+ FString: 7 bar bar
+ 1
+  SeqLookup: 0 "bar_bar_bar.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+AD0A:+AD0A' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "equal_colon_equal.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'+AD0A:+AD0A' Contextual Alternates 2" 0 0 0 1
+ String: 5 colon
+ BString: 3 LIG
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "equal_colon_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+AD0A:+AD0A' Contextual Alternates 3" 0 0 0 1
+ String: 5 equal
+ BString: 0 
+ FString: 11 colon equal
+ 1
+  SeqLookup: 0 "equal_colon_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'!!!' Contextual Alternates 1" 0 0 0 1
+ String: 6 exclam
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "exclam_exclam_exclam.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'!!!' Contextual Alternates 2" 0 0 0 1
+ String: 6 exclam
+ BString: 3 LIG
+ FString: 6 exclam
+ 1
+  SeqLookup: 0 "exclam_exclam_exclam.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'!!!' Contextual Alternates 3" 0 0 0 1
+ String: 6 exclam
+ BString: 0 
+ FString: 13 exclam exclam
+ 1
+  SeqLookup: 0 "exclam_exclam_exclam.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'...' Contextual Alternates 1" 0 0 0 1
+ String: 6 period
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "period_period_period.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'...' Contextual Alternates 2" 0 0 0 1
+ String: 6 period
+ BString: 3 LIG
+ FString: 6 period
+ 1
+  SeqLookup: 0 "period_period_period.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'...' Contextual Alternates 3" 0 0 0 1
+ String: 6 period
+ BString: 0 
+ FString: 13 period period
+ 1
+  SeqLookup: 0 "period_period_period.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+-+-+-' Contextual Alternates 1" 0 0 0 1
+ String: 4 plus
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "plus_plus_plus.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'+-+-+-' Contextual Alternates 2" 0 0 0 1
+ String: 4 plus
+ BString: 3 LIG
+ FString: 4 plus
+ 1
+  SeqLookup: 0 "plus_plus_plus.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'+-+-+-' Contextual Alternates 3" 0 0 0 1
+ String: 4 plus
+ BString: 0 
+ FString: 9 plus plus
+ 1
+  SeqLookup: 0 "plus_plus_plus.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'***' Contextual Alternates 1" 0 0 0 1
+ String: 8 asterisk
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "asterisk_asterisk_asterisk.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'***' Contextual Alternates 2" 0 0 0 1
+ String: 8 asterisk
+ BString: 3 LIG
+ FString: 8 asterisk
+ 1
+  SeqLookup: 0 "asterisk_asterisk_asterisk.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'***' Contextual Alternates 3" 0 0 0 1
+ String: 8 asterisk
+ BString: 0 
+ FString: 17 asterisk asterisk
+ 1
+  SeqLookup: 0 "asterisk_asterisk_asterisk.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<.>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_period_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<.>' Contextual Alternates 2" 0 0 0 1
+ String: 6 period
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_period_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<.>' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 14 period greater
+ 1
+  SeqLookup: 0 "less_period_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<*>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_asterisk_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<*>' Contextual Alternates 2" 0 0 0 1
+ String: 8 asterisk
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_asterisk_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<*>' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 16 asterisk greater
+ 1
+  SeqLookup: 0 "less_asterisk_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+->' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_plus_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+->' Contextual Alternates 2" 0 0 0 1
+ String: 4 plus
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_plus_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+->' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 12 plus greater
+ 1
+  SeqLookup: 0 "less_plus_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<!>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_exclam_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<!>' Contextual Alternates 2" 0 0 0 1
+ String: 6 exclam
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_exclam_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<!>' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 14 exclam greater
+ 1
+  SeqLookup: 0 "less_exclam_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<->' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_hyphen_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<->' Contextual Alternates 2" 0 0 0 1
+ String: 6 hyphen
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_hyphen_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<->' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 14 hyphen greater
+ 1
+  SeqLookup: 0 "less_hyphen_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+AFwA>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_backslash_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+AFwA>' Contextual Alternates 2" 0 0 0 1
+ String: 9 backslash
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_backslash_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+AFwA>' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 17 backslash greater
+ 1
+  SeqLookup: 0 "less_backslash_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'</>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_slash_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'</>' Contextual Alternates 2" 0 0 0 1
+ String: 5 slash
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_slash_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'</>' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 13 slash greater
+ 1
+  SeqLookup: 0 "less_slash_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<?>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_question_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<?>' Contextual Alternates 2" 0 0 0 1
+ String: 8 question
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_question_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<?>' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 16 question greater
+ 1
+  SeqLookup: 0 "less_question_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<$>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_dollar_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<$>' Contextual Alternates 2" 0 0 0 1
+ String: 6 dollar
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_dollar_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<$>' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 14 dollar greater
+ 1
+  SeqLookup: 0 "less_dollar_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<|>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_bar_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<|>' Contextual Alternates 2" 0 0 0 1
+ String: 3 bar
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_bar_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<|>' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 11 bar greater
+ 1
+  SeqLookup: 0 "less_bar_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+AD0A!+AD0A' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "equal_exclam_equal.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'+AD0A!+AD0A' Contextual Alternates 2" 0 0 0 1
+ String: 6 exclam
+ BString: 3 LIG
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "equal_exclam_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+AD0A!+AD0A' Contextual Alternates 3" 0 0 0 1
+ String: 5 equal
+ BString: 0 
+ FString: 12 exclam equal
+ 1
+  SeqLookup: 0 "equal_exclam_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'-<<' Contextual Alternates 1" 0 0 0 1
+ String: 4 less
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "hyphen_less_less.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'-<<' Contextual Alternates 2" 0 0 0 1
+ String: 4 less
+ BString: 3 LIG
+ FString: 4 less
+ 1
+  SeqLookup: 0 "hyphen_less_less.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'-<<' Contextual Alternates 3" 0 0 0 1
+ String: 6 hyphen
+ BString: 0 
+ FString: 9 less less
+ 1
+  SeqLookup: 0 "hyphen_less_less.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>>-' Contextual Alternates 1" 0 0 0 1
+ String: 6 hyphen
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "greater_greater_hyphen.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>>-' Contextual Alternates 2" 0 0 0 1
+ String: 7 greater
+ BString: 3 LIG
+ FString: 6 hyphen
+ 1
+  SeqLookup: 0 "greater_greater_hyphen.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'>>-' Contextual Alternates 3" 0 0 0 1
+ String: 7 greater
+ BString: 0 
+ FString: 14 greater hyphen
+ 1
+  SeqLookup: 0 "greater_greater_hyphen.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<<<' Contextual Alternates 1" 0 0 0 1
+ String: 4 less
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_less_less.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'<<<' Contextual Alternates 2" 0 0 0 1
+ String: 4 less
+ BString: 3 LIG
+ FString: 4 less
+ 1
+  SeqLookup: 0 "less_less_less.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'<<<' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 9 less less
+ 1
+  SeqLookup: 0 "less_less_less.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>>>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "greater_greater_greater.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'>>>' Contextual Alternates 2" 0 0 0 1
+ String: 7 greater
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "greater_greater_greater.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'>>>' Contextual Alternates 3" 0 0 0 1
+ String: 7 greater
+ BString: 0 
+ FString: 15 greater greater
+ 1
+  SeqLookup: 0 "greater_greater_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+AD0A>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_equal_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+AD0A>' Contextual Alternates 2" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_equal_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+AD0A>' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 13 equal greater
+ 1
+  SeqLookup: 0 "less_equal_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+AD0A<' Contextual Alternates 1" 0 0 0 1
+ String: 4 less
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_equal_less.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'<+AD0A<' Contextual Alternates 2" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 4 less
+ 1
+  SeqLookup: 0 "less_equal_less.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<+AD0A<' Contextual Alternates 3" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 10 equal less
+ 1
+  SeqLookup: 0 "less_equal_less.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>+AD0A>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "greater_equal_greater.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'>+AD0A>' Contextual Alternates 2" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "greater_equal_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>+AD0A>' Contextual Alternates 3" 0 0 0 1
+ String: 7 greater
+ BString: 0 
+ FString: 13 equal greater
+ 1
+  SeqLookup: 0 "greater_equal_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+AD0A<<' Contextual Alternates 1" 0 0 0 1
+ String: 4 less
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "equal_less_less.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'+AD0A<<' Contextual Alternates 2" 0 0 0 1
+ String: 4 less
+ BString: 3 LIG
+ FString: 4 less
+ 1
+  SeqLookup: 0 "equal_less_less.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+AD0A<<' Contextual Alternates 3" 0 0 0 1
+ String: 5 equal
+ BString: 0 
+ FString: 9 less less
+ 1
+  SeqLookup: 0 "equal_less_less.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>>+AD0A' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "greater_greater_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>>+AD0A' Contextual Alternates 2" 0 0 0 1
+ String: 7 greater
+ BString: 3 LIG
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "greater_greater_equal.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'>>+AD0A' Contextual Alternates 3" 0 0 0 1
+ String: 7 greater
+ BString: 0 
+ FString: 13 greater equal
+ 1
+  SeqLookup: 0 "greater_greater_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+AD0APQA9' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 8 LIG2 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "equal_equal_equal.liga Single Substitution (1rd)"
+EndFPST
+ChainSub2: glyph "'+AD0APQA9' Contextual Alternates 2" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "equal_equal_equal.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'+AD0APQA9' Contextual Alternates 3" 0 0 0 1
+ String: 5 equal
+ BString: 0 
+ FString: 11 equal equal
+ 1
+  SeqLookup: 0 "equal_equal_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "':+AD0A' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "colon_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "':+AD0A' Contextual Alternates 2" 0 0 0 1
+ String: 5 colon
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "colon_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'*+AD0A' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "asterisk_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'*+AD0A' Contextual Alternates 2" 0 0 0 1
+ String: 8 asterisk
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "asterisk_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'^+AD0A' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "asciicircum_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'^+AD0A' Contextual Alternates 2" 0 0 0 1
+ String: 11 asciicircum
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "asciicircum_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'?+AD0A' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "question_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'?+AD0A' Contextual Alternates 2" 0 0 0 1
+ String: 8 question
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "question_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'/+AD0A' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "slash_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'/+AD0A' Contextual Alternates 2" 0 0 0 1
+ String: 5 slash
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "slash_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+-+-' Contextual Alternates 1" 0 0 0 1
+ String: 4 plus
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "plus_plus.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'+-+-' Contextual Alternates 2" 0 0 0 1
+ String: 4 plus
+ BString: 0 
+ FString: 4 plus
+ 1
+  SeqLookup: 0 "plus_plus.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'::' Contextual Alternates 1" 0 0 0 1
+ String: 5 colon
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "colon_colon.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'::' Contextual Alternates 2" 0 0 0 1
+ String: 5 colon
+ BString: 0 
+ FString: 5 colon
+ 1
+  SeqLookup: 0 "colon_colon.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'||' Contextual Alternates 1" 0 0 0 1
+ String: 3 bar
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "bar_bar.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'||' Contextual Alternates 2" 0 0 0 1
+ String: 3 bar
+ BString: 0 
+ FString: 3 bar
+ 1
+  SeqLookup: 0 "bar_bar.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'&&' Contextual Alternates 1" 0 0 0 1
+ String: 9 ampersand
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "ampersand_ampersand.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'&&' Contextual Alternates 2" 0 0 0 1
+ String: 9 ampersand
+ BString: 0 
+ FString: 9 ampersand
+ 1
+  SeqLookup: 0 "ampersand_ampersand.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>-' Contextual Alternates 1" 0 0 0 1
+ String: 6 hyphen
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "greater_hyphen.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>-' Contextual Alternates 2" 0 0 0 1
+ String: 7 greater
+ BString: 0 
+ FString: 6 hyphen
+ 1
+  SeqLookup: 0 "greater_hyphen.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'-<' Contextual Alternates 1" 0 0 0 1
+ String: 4 less
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "hyphen_less.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'-<' Contextual Alternates 2" 0 0 0 1
+ String: 6 hyphen
+ BString: 0 
+ FString: 4 less
+ 1
+  SeqLookup: 0 "hyphen_less.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'*>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "asterisk_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'*>' Contextual Alternates 2" 0 0 0 1
+ String: 8 asterisk
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "asterisk_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<*' Contextual Alternates 1" 0 0 0 1
+ String: 8 asterisk
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_asterisk.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<*' Contextual Alternates 2" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 8 asterisk
+ 1
+  SeqLookup: 0 "less_asterisk.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'|>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "bar_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'|>' Contextual Alternates 2" 0 0 0 1
+ String: 3 bar
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "bar_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<|' Contextual Alternates 1" 0 0 0 1
+ String: 3 bar
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_bar.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<|' Contextual Alternates 2" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 3 bar
+ 1
+  SeqLookup: 0 "less_bar.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'!+AD0A' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "exclam_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'!+AD0A' Contextual Alternates 2" 0 0 0 1
+ String: 6 exclam
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "exclam_equal.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<-' Contextual Alternates 1" 0 0 0 1
+ String: 6 hyphen
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_hyphen.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<-' Contextual Alternates 2" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 6 hyphen
+ 1
+  SeqLookup: 0 "less_hyphen.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'->' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "hyphen_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'->' Contextual Alternates 2" 0 0 0 1
+ String: 6 hyphen
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "hyphen_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<>' Contextual Alternates 2" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "less_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'>>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "greater_greater.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'>>' Contextual Alternates 2" 0 0 0 1
+ String: 7 greater
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "greater_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'<<' Contextual Alternates 1" 0 0 0 1
+ String: 4 less
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "less_less.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'<<' Contextual Alternates 2" 0 0 0 1
+ String: 4 less
+ BString: 0 
+ FString: 4 less
+ 1
+  SeqLookup: 0 "less_less.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+AD0A>' Contextual Alternates 1" 0 0 0 1
+ String: 7 greater
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "equal_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+AD0A>' Contextual Alternates 2" 0 0 0 1
+ String: 5 equal
+ BString: 0 
+ FString: 7 greater
+ 1
+  SeqLookup: 0 "equal_greater.liga Single Substitution"
+EndFPST
+ChainSub2: glyph "'+AD0APQAA' Contextual Alternates 1" 0 0 0 1
+ String: 5 equal
+ BString: 3 LIG
+ FString: 0 
+ 1
+  SeqLookup: 0 "equal_equal.liga Single Substitution (2nd)"
+EndFPST
+ChainSub2: glyph "'+AD0APQAA' Contextual Alternates 2" 0 0 0 1
+ String: 5 equal
+ BString: 0 
+ FString: 5 equal
+ 1
+  SeqLookup: 0 "equal_equal.liga Single Substitution"
+EndFPST
 LangName: 1033
 Encoding: UnicodeFull
 UnicodeInterp: none
@@ -67,7 +1112,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 1113700 37 13
+WinInfo: 1113737 37 13
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 524288 262144 174762 479199 1048576 174762 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
@@ -97,6 +1142,12 @@ SplineSet
  263.000502204 -11.0000000136 263.000502204 -11.0000000136 239.001339206 -11.0000000136 c 128,-1,8
  214.999748675 -10.999755856 214.999748675 -10.999755856 197.5 6 c 132,-1,9
 EndSplineSet
+Substitution2: "exclam_exclam_exclam.liga Single Substitution (1rd)" exclam_exclam_exclam.liga
+Substitution2: "exclam_exclam_exclam.liga Single Substitution (2nd)" LIG2
+Substitution2: "exclam_exclam_exclam.liga Single Substitution" LIG
+Substitution2: "less_exclam_greater.liga Single Substitution" LIG2
+Substitution2: "equal_exclam_equal.liga Single Substitution" LIG2
+Substitution2: "exclam_equal.liga Single Substitution" LIG
 EndChar
 
 StartChar: quotedbl
@@ -221,6 +1272,7 @@ SplineSet
  292.999023438 73.9990234375 l 5,53,47
  339.998535156 82.9990234375 339.998535156 82.9990234375 367.498046875 111.999023438 c 132,-1,48
 EndSplineSet
+Substitution2: "less_dollar_greater.liga Single Substitution" LIG2
 EndChar
 
 StartChar: percent
@@ -329,6 +1381,11 @@ SplineSet
  162.997070312 54.001953125 162.997070312 54.001953125 198.997070312 54.001953125 c 0,53,54
  262.997558594 54.001953125 262.997558594 54.001953125 323.998046875 123.001953125 c 1,46,-1
 EndSplineSet
+Substitution2: "ampers_ampers_ampers.liga Single Substitution (1rd)" ampers_ampers_ampers.liga
+Substitution2: "ampers_ampers_ampers.liga Single Substitution (2nd)" LIG2
+Substitution2: "ampers_ampers_ampers.liga Single Substitution" LIG
+Substitution2: "ampersand_ampersand.liga Single Substitution (2nd)" ampersand_ampersand.liga
+Substitution2: "ampersand_ampersand.liga Single Substitution" LIG
 EndChar
 
 StartChar: quotesingle
@@ -420,6 +1477,13 @@ SplineSet
  138 123 l 1,14,-1
  84 167 l 1,0,-1
 EndSplineSet
+Substitution2: "asterisk_asterisk_asterisk.liga Single Substitution (1rd)" asterisk_asterisk_asterisk.liga
+Substitution2: "asterisk_asterisk_asterisk.liga Single Substitution (2nd)" LIG2
+Substitution2: "asterisk_asterisk_asterisk.liga Single Substitution" LIG
+Substitution2: "less_asterisk_greater.liga Single Substitution" LIG2
+Substitution2: "asterisk_equal.liga Single Substitution" LIG
+Substitution2: "asterisk_greater.liga Single Substitution" LIG
+Substitution2: "less_asterisk.liga Single Substitution" less_asterisk.liga
 EndChar
 
 StartChar: plus
@@ -443,6 +1507,12 @@ SplineSet
  222 104 l 1,11,-1
  222 291 l 1,0,-1
 EndSplineSet
+Substitution2: "plus_plus_plus.liga Single Substitution (1rd)" plus_plus_plus.liga
+Substitution2: "plus_plus_plus.liga Single Substitution (2nd)" LIG2
+Substitution2: "plus_plus_plus.liga Single Substitution" LIG
+Substitution2: "less_plus_greater.liga Single Substitution" LIG2
+Substitution2: "plus_plus.liga Single Substitution (2nd)" plus_plus.liga
+Substitution2: "plus_plus.liga Single Substitution" LIG
 EndChar
 
 StartChar: comma
@@ -481,6 +1551,13 @@ SplineSet
  71 281 l 1,3,-1
  71 348 l 1,0,-1
 EndSplineSet
+Substitution2: "less_hyphen_greater.liga Single Substitution" LIG2
+Substitution2: "hyphen_less_less.liga Single Substitution" LIG
+Substitution2: "greater_greater_hyphen.liga Single Substitution" greater_greater_hyphen.liga
+Substitution2: "greater_hyphen.liga Single Substitution" greater_hyphen.liga
+Substitution2: "hyphen_less.liga Single Substitution" LIG
+Substitution2: "less_hyphen.liga Single Substitution" less_hyphen.liga
+Substitution2: "hyphen_greater.liga Single Substitution" LIG
 EndChar
 
 StartChar: period
@@ -500,6 +1577,10 @@ SplineSet
  260.999511719 -10.9995117188 260.999511719 -10.9995117188 238 -11 c 0,9,0
  214 -11 214 -11 197 6 c 128,-1,1
 EndSplineSet
+Substitution2: "period_period_period.liga Single Substitution (1rd)" period_period_period.liga
+Substitution2: "period_period_period.liga Single Substitution (2nd)" LIG2
+Substitution2: "period_period_period.liga Single Substitution" LIG
+Substitution2: "less_period_greater.liga Single Substitution" LIG2
 EndChar
 
 StartChar: slash
@@ -515,6 +1596,8 @@ SplineSet
  123 -42 l 1,3,-1
  64 -13 l 1,0,-1
 EndSplineSet
+Substitution2: "less_slash_greater.liga Single Substitution" LIG2
+Substitution2: "slash_equal.liga Single Substitution" LIG
 EndChar
 
 StartChar: zero
@@ -889,6 +1972,10 @@ SplineSet
  263.000488281 -10.9995117188 263.000488281 -10.9995117188 238 -11 c 128,-1,11
  212.999511718 -11 212.999511718 -11 196 5.5 c 128,-1,12
 EndSplineSet
+Substitution2: "equal_colon_equal.liga Single Substitution" LIG2
+Substitution2: "colon_equal.liga Single Substitution" LIG
+Substitution2: "colon_colon.liga Single Substitution (2nd)" colon_colon.liga
+Substitution2: "colon_colon.liga Single Substitution" LIG
 EndChar
 
 StartChar: semicolon
@@ -939,6 +2026,33 @@ SplineSet
  461 47 l 1,6,-1
  35 296 l 1,0,-1
 EndSplineSet
+Substitution2: "less_period_greater.liga Single Substitution" LIG
+Substitution2: "less_asterisk_greater.liga Single Substitution" LIG
+Substitution2: "less_plus_greater.liga Single Substitution" LIG
+Substitution2: "less_exclam_greater.liga Single Substitution" LIG
+Substitution2: "less_hyphen_greater.liga Single Substitution" LIG
+Substitution2: "less_backslash_greater.liga Single Substitution" LIG
+Substitution2: "less_slash_greater.liga Single Substitution" LIG
+Substitution2: "less_question_greater.liga Single Substitution" LIG
+Substitution2: "less_dollar_greater.liga Single Substitution" LIG
+Substitution2: "less_bar_greater.liga Single Substitution" LIG
+Substitution2: "hyphen_less_less.liga Single Substitution (1rd)" hyphen_less_less.liga
+Substitution2: "hyphen_less_less.liga Single Substitution" LIG2
+Substitution2: "less_less_less.liga Single Substitution (1rd)" less_less_less.liga
+Substitution2: "less_less_less.liga Single Substitution (2nd)" LIG2
+Substitution2: "less_less_less.liga Single Substitution" LIG
+Substitution2: "less_equal_greater.liga Single Substitution" LIG
+Substitution2: "less_equal_less.liga Single Substitution (1rd)" less_equal_less.liga
+Substitution2: "less_equal_less.liga Single Substitution" LIG
+Substitution2: "equal_less_less.liga Single Substitution (1rd)" equal_less_less.liga
+Substitution2: "equal_less_less.liga Single Substitution" LIG2
+Substitution2: "hyphen_less.liga Single Substitution" hyphen_less.liga
+Substitution2: "less_asterisk.liga Single Substitution" LIG
+Substitution2: "less_bar.liga Single Substitution" LIG
+Substitution2: "less_hyphen.liga Single Substitution" LIG
+Substitution2: "less_greater.liga Single Substitution" LIG
+Substitution2: "less_less.liga Single Substitution (2nd)" less_less.liga
+Substitution2: "less_less.liga Single Substitution" LIG
 EndChar
 
 StartChar: equal
@@ -959,6 +2073,27 @@ SplineSet
  45 211 l 5,7,-1
  45 272 l 5,4,-1
 EndSplineSet
+Substitution2: "equal_colon_equal.liga Single Substitution (1rd)" equal_colon_equal.liga
+Substitution2: "equal_colon_equal.liga Single Substitution" LIG
+Substitution2: "equal_exclam_equal.liga Single Substitution (1rd)" equal_exclam_equal.liga
+Substitution2: "equal_exclam_equal.liga Single Substitution" LIG
+Substitution2: "less_equal_greater.liga Single Substitution" LIG2
+Substitution2: "less_equal_less.liga Single Substitution" LIG2
+Substitution2: "greater_equal_greater.liga Single Substitution" LIG2
+Substitution2: "equal_less_less.liga Single Substitution" LIG
+Substitution2: "greater_greater_equal.liga Single Substitution" greater_greater_equal.liga
+Substitution2: "equal_equal_equal.liga Single Substitution (1rd)" equal_equal_equal.liga
+Substitution2: "equal_equal_equal.liga Single Substitution (2nd)" LIG2
+Substitution2: "equal_equal_equal.liga Single Substitution" LIG
+Substitution2: "colon_equal.liga Single Substitution" colon_equal.liga
+Substitution2: "asterisk_equal.liga Single Substitution" asterisk_equal.liga
+Substitution2: "asciicircum_equal.liga Single Substitution" asciicircum_equal.liga
+Substitution2: "question_equal.liga Single Substitution" question_equal.liga
+Substitution2: "slash_equal.liga Single Substitution" slash_equal.liga
+Substitution2: "exclam_equal.liga Single Substitution" exclam_equal.liga
+Substitution2: "equal_greater.liga Single Substitution" LIG
+Substitution2: "equal_equal.liga Single Substitution (2nd)" equal_equal.liga
+Substitution2: "equal_equal.liga Single Substitution" LIG
 EndChar
 
 StartChar: greater
@@ -977,6 +2112,34 @@ SplineSet
  40 47 l 5,6,-1
  40 123 l 5,0,-1
 EndSplineSet
+Substitution2: "less_period_greater.liga Single Substitution" less_period_greater.liga
+Substitution2: "less_asterisk_greater.liga Single Substitution" less_asterisk_greater.liga
+Substitution2: "less_plus_greater.liga Single Substitution" less_plus_greater.liga
+Substitution2: "less_exclam_greater.liga Single Substitution" less_exclam_greater.liga
+Substitution2: "less_hyphen_greater.liga Single Substitution" less_hyphen_greater.liga
+Substitution2: "less_backslash_greater.liga Single Substitution" less_backslash_greater.liga
+Substitution2: "less_slash_greater.liga Single Substitution" less_slash_greater.liga
+Substitution2: "less_question_greater.liga Single Substitution" less_question_greater.liga
+Substitution2: "less_dollar_greater.liga Single Substitution" less_dollar_greater.liga
+Substitution2: "less_bar_greater.liga Single Substitution" less_bar_greater.liga
+Substitution2: "greater_greater_hyphen.liga Single Substitution (2nd)" LIG2
+Substitution2: "greater_greater_hyphen.liga Single Substitution" LIG
+Substitution2: "greater_greater_greater.liga Single Substitution (1rd)" greater_greater_greater.liga
+Substitution2: "greater_greater_greater.liga Single Substitution (2nd)" LIG2
+Substitution2: "greater_greater_greater.liga Single Substitution" LIG
+Substitution2: "less_equal_greater.liga Single Substitution" less_equal_greater.liga
+Substitution2: "greater_equal_greater.liga Single Substitution (1rd)" greater_equal_greater.liga
+Substitution2: "greater_equal_greater.liga Single Substitution" LIG
+Substitution2: "greater_greater_equal.liga Single Substitution (2nd)" LIG2
+Substitution2: "greater_greater_equal.liga Single Substitution" LIG
+Substitution2: "greater_hyphen.liga Single Substitution" LIG
+Substitution2: "asterisk_greater.liga Single Substitution" asterisk_greater.liga
+Substitution2: "bar_greater.liga Single Substitution" bar_greater.liga
+Substitution2: "hyphen_greater.liga Single Substitution" hyphen_greater.liga
+Substitution2: "less_greater.liga Single Substitution" less_greater.liga
+Substitution2: "greater_greater.liga Single Substitution (2nd)" greater_greater.liga
+Substitution2: "greater_greater.liga Single Substitution" LIG
+Substitution2: "equal_greater.liga Single Substitution" equal_greater.liga
 EndChar
 
 StartChar: question
@@ -1021,6 +2184,8 @@ SplineSet
  284.001464844 -10.9995117188 284.001464844 -10.9995117188 261.001953125 -11 c 0,41,32
  237.001953125 -11 237.001953125 -11 220.001953125 6 c 128,-1,33
 EndSplineSet
+Substitution2: "less_question_greater.liga Single Substitution" LIG2
+Substitution2: "question_equal.liga Single Substitution" LIG
 EndChar
 
 StartChar: at
@@ -1825,6 +2990,7 @@ SplineSet
  378 -42 l 1,3,-1
  64 634 l 1,0,-1
 EndSplineSet
+Substitution2: "less_backslash_greater.liga Single Substitution" LIG2
 EndChar
 
 StartChar: bracketright
@@ -1862,6 +3028,7 @@ SplineSet
  143 343 l 1,6,-1
  93 367 l 1,0,-1
 EndSplineSet
+Substitution2: "asciicircum_equal.liga Single Substitution" LIG
 EndChar
 
 StartChar: underscore
@@ -2817,6 +3984,14 @@ SplineSet
  217 -151 l 1,3,-1
  217 652 l 1,0,-1
 EndSplineSet
+Substitution2: "bar_bar_bar.liga Single Substitution (1rd)" bar_bar_bar.liga
+Substitution2: "bar_bar_bar.liga Single Substitution (2nd)" LIG2
+Substitution2: "bar_bar_bar.liga Single Substitution" LIG
+Substitution2: "less_bar_greater.liga Single Substitution" LIG2
+Substitution2: "bar_bar.liga Single Substitution (2nd)" bar_bar.liga
+Substitution2: "bar_bar.liga Single Substitution" LIG
+Substitution2: "bar_greater.liga Single Substitution" LIG
+Substitution2: "less_bar.liga Single Substitution" less_bar.liga
 EndChar
 
 StartChar: braceright
@@ -29221,38 +30396,38 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
--41 83 m 5,0,-1
- 389 319 l 5,1,-1
- -38 526 l 5,2,-1
- -38 597 l 5,3,-1
- 466 344 l 5,4,-1
- 466 296 l 5,5,-1
- -41 7 l 5,6,-1
- -41 83 l 5,0,-1
--965 296 m 5,7,-1
- -965 344 l 5,8,-1
- -462 597 l 5,9,-1
- -462 526 l 5,10,-1
- -889 319 l 5,11,-1
- -459 83 l 5,12,-1
- -459 7 l 5,13,-1
- -965 296 l 5,7,-1
--416 167 m 5,14,-1
- -286 317 l 5,15,-1
- -459 370 l 5,16,-1
- -433 435 l 5,17,-1
- -271 359 l 5,18,-1
- -287 536 l 5,19,-1
- -209 536 l 5,20,-1
- -227 359 l 5,21,-1
- -68 431 l 5,22,-1
- -42 370 l 5,23,-1
- -213 318 l 5,24,-1
- -87 167 l 5,25,-1
- -142 124 l 5,26,-1
- -250 290 l 5,27,-1
- -362 123 l 5,28,-1
- -416 167 l 5,14,-1
+-41 83 m 1,0,-1
+ 389 319 l 1,1,-1
+ -38 526 l 1,2,-1
+ -38 597 l 1,3,-1
+ 466 344 l 1,4,-1
+ 466 296 l 1,5,-1
+ -41 7 l 1,6,-1
+ -41 83 l 1,0,-1
+-965 296 m 1,7,-1
+ -965 344 l 1,8,-1
+ -462 597 l 1,9,-1
+ -462 526 l 1,10,-1
+ -889 319 l 1,11,-1
+ -459 83 l 1,12,-1
+ -459 7 l 1,13,-1
+ -965 296 l 1,7,-1
+-297 314 m 1,14,-1
+ -468 366 l 1,15,-1
+ -436 444 l 1,16,-1
+ -278 370 l 1,17,-1
+ -294 543 l 1,18,-1
+ -202 542 l 1,19,-1
+ -219 370 l 1,20,-1
+ -65 440 l 1,21,-1
+ -33 366 l 1,22,-1
+ -202 315 l 1,23,-1
+ -78 166 l 1,24,-1
+ -144 115 l 1,25,-1
+ -250 278 l 1,26,-1
+ -361 113 l 1,27,-1
+ -425 166 l 1,28,-1
+ -297 314 l 1,14,-1
 EndSplineSet
 EndChar
 
@@ -30553,63 +31728,62 @@ HStem: 211 61<-122 -112> 368 61<-14.2014 377>
 LayerCount: 2
 Fore
 SplineSet
--32 368 m 1,0,1
- -18 397 -18 397 -13 429 c 1,2,-1
- 377 429 l 5,3,-1
- 377 368 l 5,4,-1
- -32 368 l 1,0,1
--112 272 m 1,5,6
+-13 429 m 1,0,-1
+ 377 429 l 1,1,-1
+ 377 368 l 1,2,-1
+ -32 368 l 1,3,4
+ -18 397 -18 397 -13 429 c 1,0,-1
+-112 272 m 5,5,6
  -116 268 -116 268 -118 265 c 0,7,8
  -122 258 -122 258 -122 250 c 2,9,10
  -122 211 l 1,11,-1
- 377 211 l 5,12,-1
- 377 272 l 5,13,-1
- -21 272 l 0,14,-1
- -112 272 l 1,5,6
--276 250 m 2,15,16
- -276 294 -276 294 -261 317 c 0,17,18
- -253 329 -253 329 -242 342 c 0,19,20
- -231 356 -231 356 -217 369 c 0,21,22
- -187 400 -187 400 -177 418 c 0,23,24
- -165 439 -165 439 -165 473 c 0,25,26
- -165 506 -165 506 -187 526 c 0,27,28
- -210 546 -210 546 -247 546 c 0,29,30
- -257 546 -257 546 -266 545 c 128,-1,31
- -275 544 -275 544 -283 542 c 0,32,33
- -291 541 -291 541 -298 538 c 0,34,35
- -325 528 -325 528 -337 512 c 0,36,37
- -340 508 -340 508 -345 499 c 0,38,39
- -346 497 -346 497 -346 489 c 2,40,-1
- -346 486 l 1,41,-1
- -354 474 l 1,42,-1
- -408 517 l 1,43,-1
- -404 522 l 2,44,45
- -376 557 -376 557 -374 559 c 0,46,47
- -357 575 -357 575 -339 586 c 0,48,49
- -330 592 -330 592 -319 596 c 0,50,51
- -309 600 -309 600 -297 603 c 0,52,53
- -285 605 -285 605 -272 607 c 0,54,55
- -259 608 -259 608 -245 608 c 0,56,57
- -178 608 -178 608 -138 573 c 0,58,59
- -97 537 -97 537 -97 477 c 0,60,61
- -97 426 -97 426 -113 401 c 0,62,63
- -122 387 -122 387 -134 372 c 0,64,65
- -145 358 -145 358 -161 343 c 0,66,67
- -187 317 -187 317 -199 298 c 0,68,69
- -210 280 -210 280 -210 250 c 2,70,-1
- -210 211 l 1,71,-1
- -276 211 l 1,72,-1
- -276 250 l 2,15,16
--279 70 m 0,73,74
- -294 85 -294 85 -294 106 c 128,-1,75
- -294 127 -294 127 -279 143 c 0,76,77
- -263 158 -263 158 -241 158 c 0,78,79
- -231 158 -231 158 -222 154 c 0,80,81
- -212 151 -212 151 -205 143 c 0,82,83
- -189 127 -189 127 -189 106 c 128,-1,84
- -189 85 -189 85 -205 70 c 0,85,86
- -220 54 -220 54 -241 54 c 0,87,88
- -263 54 -263 54 -279 70 c 0,73,74
+ 377 211 l 1,12,-1
+ 377 272 l 1,13,-1
+ -112 272 l 5,5,6
+-276 250 m 2,14,15
+ -276 294 -276 294 -261 317 c 0,16,17
+ -253 329 -253 329 -242 342 c 0,18,19
+ -231 356 -231 356 -217 369 c 0,20,21
+ -187 400 -187 400 -177 418 c 0,22,23
+ -165 439 -165 439 -165 473 c 0,24,25
+ -165 506 -165 506 -187 526 c 0,26,27
+ -210 546 -210 546 -247 546 c 0,28,29
+ -257 546 -257 546 -266 545 c 128,-1,30
+ -275 544 -275 544 -283 542 c 0,31,32
+ -291 541 -291 541 -298 538 c 0,33,34
+ -325 528 -325 528 -337 512 c 0,35,36
+ -340 508 -340 508 -345 499 c 0,37,38
+ -346 497 -346 497 -346 489 c 2,39,-1
+ -346 486 l 1,40,-1
+ -354 474 l 1,41,-1
+ -408 517 l 1,42,-1
+ -404 522 l 2,43,44
+ -376 557 -376 557 -374 559 c 0,45,46
+ -357 575 -357 575 -339 586 c 0,47,48
+ -330 592 -330 592 -319 596 c 0,49,50
+ -309 600 -309 600 -297 603 c 0,51,52
+ -285 605 -285 605 -272 607 c 0,53,54
+ -259 608 -259 608 -245 608 c 0,55,56
+ -178 608 -178 608 -138 573 c 0,57,58
+ -97 537 -97 537 -97 477 c 0,59,60
+ -97 426 -97 426 -113 401 c 0,61,62
+ -122 387 -122 387 -134 372 c 0,63,64
+ -145 358 -145 358 -161 343 c 0,65,66
+ -187 317 -187 317 -199 298 c 0,67,68
+ -210 280 -210 280 -210 250 c 2,69,-1
+ -210 211 l 1,70,-1
+ -276 211 l 1,71,-1
+ -276 250 l 2,14,15
+-279 70 m 0,72,73
+ -294 85 -294 85 -294 106 c 128,-1,74
+ -294 127 -294 127 -279 143 c 0,75,76
+ -263 158 -263 158 -241 158 c 0,77,78
+ -231 158 -231 158 -222 154 c 0,79,80
+ -212 151 -212 151 -205 143 c 0,81,82
+ -189 127 -189 127 -189 106 c 128,-1,83
+ -189 85 -189 85 -205 70 c 0,84,85
+ -220 54 -220 54 -241 54 c 0,86,87
+ -263 54 -263 54 -279 70 c 0,72,73
 EndSplineSet
 EndChar
 
@@ -30718,7 +31892,7 @@ EndChar
 StartChar: colon_equal.liga
 Encoding: 1114248 -1 857
 Width: 500
-Flags: W
+Flags: MW
 HStem: 211 61<-85 342> 368 61<-85 342>
 LayerCount: 2
 Fore
@@ -30743,8 +31917,8 @@ SplineSet
  -238 351 -238 351 -262 351 c 0,20,10
  -285 351 -285 351 -303 368 c 128,-1,11
 -85 429 m 1,21,-1
- 342 429 l 5,22,-1
- 342 368 l 5,23,-1
+ 342 429 l 1,22,-1
+ 342 368 l 1,23,-1
  -85 368 l 1,24,-1
  -85 429 l 1,21,-1
 -85 272 m 1,25,-1

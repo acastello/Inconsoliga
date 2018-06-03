@@ -10,14 +10,30 @@ def usage():
     print('USAGE: CreateLigLookup.py [filename] [ligname] ...')
 
 def ligname_tuple(ligname):
-    if ligname.endswith('.liga'):
-        parts = ligname.split('.')[0].split('_')
-        return (ligname, parts, ''.join([chr(ff.unicodeFromName(c)) for c in parts]))
-    else:
-        chars = ligname
-        parts = [ff.nameFromUnicode(ord(c)) for c in chars]
-        ligname = '_'.join(parts) + '.liga'
-        return (ligname, parts, chars)
+    returns = {'name': None, 'parts': None, 'chars': None}
+    for atom in ligname.split(' '):
+        if atom.endswith('.liga'):
+            returns['name'] = atom
+            try:
+                parts = atom.split('.')[0].split('_')
+                chars = ''.join([chr(ff.unicodeFromName(c)) for c in parts])
+                if not returns['parts']: 
+                    returns['parts'] = parts
+                if not returns['chars']: 
+                    returns['chars'] = chars
+            except:
+                pass
+        else:
+            returns['chars'] = atom
+            try:
+                parts = [ff.nameFromUnicode(ord(c)) for c in atom]
+                ligname = '_'.join(parts) + '.liga'
+                returns['parts'] = parts
+                if not returns['name']:
+                    returns['name'] = ligname
+            except:
+                pass
+    return tuple(returns.values())
 
 def createSingleSubLookup(name):
     if name in font.gsub_lookups:
@@ -82,14 +98,12 @@ def createContAlts(ligname, parts, chars, lookups):
                                        ' '.join(parts[i+1:]))
         font.addContextualSubtable(lname, lsname, 'glyph', rule)
 
-def createLigaLookup(ligname, parts=None, chars=None):
+def createLigaLookup(ligname):
     global font
-    ligname, newparts, newchars = ligname_tuple(ligname)
+    ligname, parts, chars = ligname_tuple(ligname)
 
-    if parts == None:
-        parts = newparts
-    if chars == None:
-        chars = newchars
+    assert(parts)
+    assert(chars)
 
     lookups = createSingleSubs(ligname, parts, chars)
     createContAlts(ligname, parts, chars, lookups)
