@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1528038829
-ModificationTime: 1528071542
+ModificationTime: 1528071687
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -2159,14 +2159,14 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-66 604 m 1,0,-1
- 66 723 l 1,1,-1
- 954 1192 l 1,2,-1
- 954 989 l 1,3,-1
- 315 662 l 1,4,-1
- 961 299 l 1,5,-1
- 961 80 l 1,6,-1
- 66 604 l 1,0,-1
+66 604 m 5,0,-1
+ 66 723 l 5,1,-1
+ 954 1192 l 5,2,-1
+ 954 989 l 5,3,-1
+ 315 662 l 5,4,-1
+ 961 299 l 5,5,-1
+ 961 80 l 5,6,-1
+ 66 604 l 5,0,-1
 EndSplineSet
 Substitution2: "less_period_greater.liga Single Substitution" LIG
 Substitution2: "less_asterisk_greater.liga Single Substitution" LIG
@@ -14689,7 +14689,7 @@ StartChar: less_equal_less.liga
 Encoding: 65622 -1 511
 Width: 1024
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -14724,34 +14724,34 @@ StartChar: less_equal_greater.liga
 Encoding: 65623 -1 512
 Width: 1024
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-293 272 m 1,0,-1
- 360 319 l 1,1,-1
- 283 368 l 1,2,-1
- -782 368 l 1,3,-1
- -859 319 l 1,4,-1
- -792 272 l 1,5,-1
- 293 272 l 1,0,-1
-188 429 m 1,6,-1
- 83 496 l 1,7,-1
- 83 574 l 1,8,-1
- 466 329 l 1,9,-1
- 466 313 l 1,10,-1
- 81 43 l 1,11,-1
- 81 123 l 1,12,-1
- 206 211 l 1,13,-1
- -705 211 l 1,14,-1
- -580 123 l 1,15,-1
- -580 43 l 1,16,-1
- -965 313 l 1,17,-1
- -965 329 l 1,18,-1
- -582 574 l 1,19,-1
- -582 496 l 1,20,-1
- -687 429 l 1,21,-1
- 188 429 l 1,6,-1
+-1285.19008264 389 m 1,0,-1
+ -1158 299 l 1,1,-1
+ -1158 63 l 1,2,-1
+ -1982 646 l 1,3,-1
+ -1982 685 l 1,4,-1
+ -1160 1210 l 1,5,-1
+ -1160 989 l 1,6,-1
+ -1236.57186544 940 l 1,7,-1
+ 225.571865443 940 l 1,8,-1
+ 149 989 l 1,9,-1
+ 149 1210 l 1,10,-1
+ 971 685 l 1,11,-1
+ 971 646 l 1,12,-1
+ 147 63 l 1,13,-1
+ 147 299 l 1,14,-1
+ 274.190082645 389 l 1,15,-1
+ -1285.19008264 389 l 1,0,-1
+-1531.09090909 563 m 1,16,-1
+ 520.090909091 563 l 1,17,-1
+ 660 662 l 1,18,-1
+ 497.480122324 766 l 1,19,-1
+ -1508.48012232 766 l 1,20,-1
+ -1671 662 l 1,21,-1
+ -1531.09090909 563 l 1,16,-1
 EndSplineSet
 EndChar
 
