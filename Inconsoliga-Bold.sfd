@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1528038829
-ModificationTime: 1528072057
+ModificationTime: 1528072131
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -14829,7 +14829,7 @@ StartChar: greater_greater_hyphen.liga
 Encoding: 65626 -1 515
 Width: 1024
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -14858,28 +14858,28 @@ StartChar: hyphen_less_less.liga
 Encoding: 65627 -1 516
 Width: 1024
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-460 123 m 1,0,-1
- 181 319 l 1,1,-1
- 458 496 l 1,2,-1
- 458 567 l 1,3,-1
- 106 348 l 1,4,-1
- -273 348 l 1,5,-1
- -41 496 l 1,6,-1
- -41 567 l 1,7,-1
- -393 348 l 1,8,-1
- -929 348 l 1,9,-1
- -929 281 l 1,10,-1
- -378 281 l 1,11,-1
- -39 47 l 1,12,-1
- -39 123 l 1,13,-1
- -264 281 l 1,14,-1
- 121 281 l 1,15,-1
- 460 47 l 1,16,-1
- 460 123 l 1,0,-1
+954 299 m 5,0,-1
+ 441 662 l 5,1,-1
+ 952 989 l 5,2,-1
+ 952 1210 l 5,3,-1
+ 231.301757812 750 l 5,4,-1
+ -323.483398438 750 l 5,5,-1
+ 50 989 l 5,6,-1
+ 50 1210 l 5,7,-1
+ -670.698242188 750 l 5,8,-1
+ -1917 750 l 5,9,-1
+ -1917 563 l 5,10,-1
+ -655.024414062 563 l 5,11,-1
+ 52 63 l 5,12,-1
+ 52 299 l 5,13,-1
+ -321.090820312 563 l 5,14,-1
+ 246.975585938 563 l 5,15,-1
+ 954 63 l 5,16,-1
+ 954 299 l 5,0,-1
 EndSplineSet
 EndChar
 
