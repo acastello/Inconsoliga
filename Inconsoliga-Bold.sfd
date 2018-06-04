@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1528038829
-ModificationTime: 1528072280
+ModificationTime: 1528096876
 PfmFamily: 81
 TTFWeight: 700
 TTFWidth: 5
@@ -2247,14 +2247,14 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-76 299 m 1,0,-1
- 719 662 l 1,1,-1
- 78 989 l 1,2,-1
- 78 1192 l 1,3,-1
- 971 723 l 1,4,-1
- 971 604 l 1,5,-1
- 76 80 l 1,6,-1
- 76 299 l 1,0,-1
+76 299 m 5,0,-1
+ 719 662 l 5,1,-1
+ 78 989 l 5,2,-1
+ 78 1192 l 5,3,-1
+ 971 723 l 5,4,-1
+ 971 604 l 5,5,-1
+ 76 80 l 5,6,-1
+ 76 299 l 5,0,-1
 EndSplineSet
 Substitution2: "less_period_greater.liga Single Substitution" less_period_greater.liga
 Substitution2: "less_asterisk_greater.liga Single Substitution" less_asterisk_greater.liga
@@ -4167,11 +4167,11 @@ Flags: W
 LayerCount: 2
 Fore
 SplineSet
-403 1335 m 1,0,-1
- 623 1335 l 1,1,-1
- 623 -309 l 1,2,-1
- 403 -309 l 1,3,-1
- 403 1335 l 1,0,-1
+403 1335 m 5,0,-1
+ 623 1335 l 5,1,-1
+ 623 -309 l 5,2,-1
+ 403 -309 l 5,3,-1
+ 403 1335 l 5,0,-1
 EndSplineSet
 Substitution2: "bar_bar_bar.liga Single Substitution (1rd)" bar_bar_bar.liga
 Substitution2: "bar_bar_bar.liga Single Substitution (2nd)" LIG2
@@ -14887,7 +14887,7 @@ StartChar: equal_exclam_equal.liga
 Encoding: 65628 -1 517
 Width: 1024
 GlyphClass: 2
-Flags: MWO
+Flags: MW
 HStem: 389 174<-243 735> 766 174<-217 735>
 VStem: -1797 987<389 940> -255 990<389 563>
 LayerCount: 2
@@ -15037,31 +15037,31 @@ StartChar: less_bar_greater.liga
 Encoding: 65631 -1 520
 Width: 1024
 GlyphClass: 2
-Flags: W
+Flags: WO
 LayerCount: 2
 Fore
 SplineSet
-466 296 m 1,0,-1
- 466 344 l 1,1,-1
- -117 607 l 1,2,-1
- -117 535 l 1,3,-1
- 390 319 l 1,4,-1
- -117 80 l 1,5,-1
- -117 1 l 1,6,-1
- 466 296 l 1,0,-1
--965 296 m 1,7,-1
- -965 344 l 1,8,-1
- -383 607 l 1,9,-1
- -383 535 l 1,10,-1
- -889 319 l 1,11,-1
- -383 80 l 1,12,-1
- -383 1 l 1,13,-1
- -965 296 l 1,7,-1
--283 652 m 1,14,-1
- -216 652 l 1,15,-1
- -216 -50 l 1,16,-1
- -283 -50 l 1,17,-1
- -283 652 l 1,14,-1
+-621 1335 m 1,0,-1
+ -401 1335 l 1,1,-1
+ -401 -57 l 1,2,-1
+ -621 -57 l 1,3,-1
+ -621 1335 l 1,0,-1
+-806 246 m 1,4,-1
+ -1720 662 l 1,5,-1
+ -806 1053 l 1,6,-1
+ -806 1251 l 1,7,-1
+ -1972 723 l 1,8,-1
+ -1972 604 l 1,9,-1
+ -806 34 l 1,10,-1
+ -806 246 l 1,4,-1
+-216 245 m 1,11,-1
+ 719 662 l 1,12,-1
+ -216 1054.36607143 l 1,13,-1
+ -216 1252.47813411 l 1,14,-1
+ 971 723 l 1,15,-1
+ 971 604 l 1,16,-1
+ -216 32 l 1,17,-1
+ -216 245 l 1,11,-1
 EndSplineSet
 EndChar
 
