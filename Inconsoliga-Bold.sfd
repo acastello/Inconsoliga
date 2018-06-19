@@ -1797,7 +1797,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 65231 37 13
+WinInfo: 65194 37 13
 BeginPrivate: 0
 EndPrivate
 BeginChars: 65677 567
@@ -16089,7 +16089,7 @@ StartChar: less_plus_greater.liga
 Encoding: 65638 -1 527
 Width: 1024
 GlyphClass: 2
-Flags: WO
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
